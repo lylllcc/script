@@ -12,6 +12,13 @@ class Spider:
         html = requests.get(url,headers = headers)
         html.encoding = 'utf-8'
         return html.text
+    def getAllurl(self,url,maxpage):
+        allurl = []
+        for i in range(1,maxpage+1):
+            tempurl = re.sub('page=(\d+)','page=%d'%i,url,re.S)
+            allurl.append(tempurl)
+        return allurl
+
 
 
 
