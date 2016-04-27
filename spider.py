@@ -1,4 +1,4 @@
-#coding=utf-8
+# -*- coding: utf-8 -*-
 import re
 import requests
 import sys
@@ -18,6 +18,15 @@ class Spider:
             tempurl = re.sub('page=(\d+)','page=%d'%i,url,re.S)
             allurl.append(tempurl)
         return allurl
+    def getAllSource(self,url,maxpage):
+        allsource = []
+        problem = []
+        # for i in range(0,maxpage):
+        html = self.getSource(url[1])
+        temp = re.findall("<tr class='evenrow'>.*?</tr>|<tr class='oddrow'>.*?</tr>",html,re.S)
+        print temp[1]
+        a = re.findall('<nobr>(.*?)</nobr>',temp[1],re.S)
+        print
 
 
 
