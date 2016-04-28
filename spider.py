@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#coding:utf-8
 import re
 import requests
 import sys
@@ -18,15 +18,29 @@ class Spider:
             tempurl = re.sub('page=(\d+)','page=%d'%i,url,re.S)
             allurl.append(tempurl)
         return allurl
-    def getAllSource(self,url,maxpage):
-        allsource = []
-        problem = []
-        # for i in range(0,maxpage):
-        html = self.getSource(url[1])
-        temp = re.findall("<tr class='evenrow'>.*?</tr>|<tr class='oddrow'>.*?</tr>",html,re.S)
-        print temp[1]
-        a = re.findall('<nobr>(.*?)</nobr>',temp[1],re.S)
-        print
+    def getAlllist(self,html):
+        return re.findall("<tr class='evenrow'>.*?</tr>|<tr class='oddrow'>.*?</tr>",html,re.S)
+    def getLineSource(self,str):
+        tempprobelmid = re.search("<div class='center'>(.*?)</div>", str, re.S).group(1)
+        tempproblem = re.search("<a href='problem[.]php[?]id=(\d+)'>(.*?)</a>", str, re.S).group(2)
+        tempac = re.search("jresult=(\d+)'>(.*?)</a>", str, re.S).group(2)
+        tempsub = re.search("<a href='status.php[?]problem_id=(\d+)'>(.*?)</a>", str, re.S).group(2)
+        temp = {}  # 暂时存放放一个问题 人数的列表
+        temp['problemid'] = tempprobelmid
+        temp['problem'] = tempproblem
+        temp['ac'] = tempac
+        temp['sub'] = tempsub
+        return temp
+    def write(self,allline):
+        f = open('date.txt','w')
+        for each in allline:
+            f.writelines("Problem ID  "+each['problemid']+"  Problem" + each['problem']+"  提交人数"+each['sub']+"  AC人数"+each['ac']+"\n")
+        f.close()
+        print "写入成功"
+
+
+
+
 
 
 

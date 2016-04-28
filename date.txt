@@ -1,0 +1,1747 @@
+Problem ID  1000  ProblemA + B Problem  提交人数3147  AC人数2740
+Problem ID  1001  ProblemA + B Problem I  提交人数4253  AC人数3243
+Problem ID  1002  ProblemA + B Problem II  提交人数3940  AC人数3250
+Problem ID  1003  ProblemA + B Problem III  提交人数4291  AC人数2907
+Problem ID  1004  ProblemA + B Problem IV  提交人数4123  AC人数2218
+Problem ID  1005  ProblemA + B Problem V  提交人数2727  AC人数1879
+Problem ID  1006  Problem A + B Problem VI  提交人数2786  AC人数1741
+Problem ID  1007  ProblemA + B Problem VII  提交人数3113  AC人数1605
+Problem ID  1008  ProblemA + B Problem VIII  提交人数2424  AC人数1575
+Problem ID  1009  Problem植树问题  提交人数2814  AC人数2492
+Problem ID  1010  Problem 简单多项式求值  提交人数1281  AC人数1188
+Problem ID  1011  Problem两个整数的四则运算  提交人数1208  AC人数1045
+Problem ID  1012  Problem三位数的数位分离  提交人数1356  AC人数1126
+Problem ID  1013  Problem整数幂  提交人数1980  AC人数929
+Problem ID  1014  Problem求等差数列的和  提交人数1207  AC人数995
+Problem ID  1015  Problem鸡兔同笼  提交人数1073  AC人数904
+Problem ID  1016  Problem美元和人民币  提交人数1261  AC人数857
+Problem ID  1017  Problem求平均分  提交人数880  AC人数796
+Problem ID  1018  Problem求圆的周长和面积  提交人数1082  AC人数762
+Problem ID  1019  Problem圆柱体表面积  提交人数901  AC人数650
+Problem ID  1020  Problem求绝对值  提交人数1079  AC人数818
+Problem ID  1021  Problem求两点间距离  提交人数1588  AC人数1378
+Problem ID  1022  Problem求三角形的面积  提交人数685  AC人数647
+Problem ID  1023  Problem二次方程的实根  提交人数1864  AC人数619
+Problem ID  1024  Problem 银行利率  提交人数1680  AC人数1099
+Problem ID  1025  Problem奇数偶数  提交人数961  AC人数826
+Problem ID  1026  Problem公园门票  提交人数1004  AC人数777
+Problem ID  1027  Problem两整数排序  提交人数731  AC人数580
+Problem ID  1028  Problem大小写转换  提交人数967  AC人数674
+Problem ID  1029  Problem计算字母序号  提交人数946  AC人数800
+Problem ID  1030  Problem最大字符  提交人数1699  AC人数669
+Problem ID  1031  Problem字符类型判断  提交人数834  AC人数534
+Problem ID  1032  Problem闰年！  提交人数2431  AC人数1461
+Problem ID  1033  Problem三角形判定  提交人数661  AC人数510
+Problem ID  1034  Problem判断直角三角形  提交人数831  AC人数450
+Problem ID  1035  Problem判断点在第几象限  提交人数1157  AC人数875
+Problem ID  1036  Problem五级制成绩  提交人数1474  AC人数992
+Problem ID  1037  Problem促销  提交人数1631  AC人数986
+Problem ID  1038  Problem某年某月有多少天  提交人数960  AC人数556
+Problem ID  1039  Problem绝对值最大  提交人数991  AC人数530
+Problem ID  1040  Problem不及格率  提交人数919  AC人数452
+Problem ID  1041  Problem数值统计  提交人数1052  AC人数679
+Problem ID  1042  Problem奇数的乘积  提交人数595  AC人数520
+Problem ID  1043  Problem 对数表  提交人数761  AC人数447
+Problem ID  1044  Problem 阶乘表  提交人数1238  AC人数394
+Problem ID  1045  Problem平方和与立方和  提交人数386  AC人数327
+Problem ID  1046  Problem素数判定  提交人数1433  AC人数703
+Problem ID  1047  Problem 最高分  提交人数792  AC人数550
+Problem ID  1048  Problem逆序数字  提交人数2752  AC人数584
+Problem ID  1050  Problem最大公约数  提交人数1576  AC人数1081
+Problem ID  1051  Problem统计数字字符的个数1  提交人数810  AC人数408
+Problem ID  1052  Problem有问题的里程表  提交人数455  AC人数199
+Problem ID  1053  Problem二进制数  提交人数503  AC人数117
+Problem ID  1054  Problem大优惠  提交人数706  AC人数301
+Problem ID  1055  Problem小汽车的位置  提交人数171  AC人数51
+Problem ID  1056  Problem 代码抄袭   提交人数230  AC人数37
+Problem ID  1057  Problem分解质因子  提交人数236  AC人数129
+Problem ID  1058  Problem找幸运数  提交人数308  AC人数208
+Problem ID  1059  Problem出租车费  提交人数323  AC人数260
+Problem ID  1062  Problem【 循环】输出星号2  提交人数348  AC人数276
+Problem ID  1063  Problem 具有abcd=(ab+cd)^2性质的四位数  提交人数1033  AC人数736
+Problem ID  1065  Problem班费问题  提交人数425  AC人数206
+Problem ID  1066  Problem寻找丑数  提交人数233  AC人数11
+Problem ID  1067  ProblemFizz Buzz  提交人数447  AC人数327
+Problem ID  1068  Problem斐波那契数列  提交人数3119  AC人数503
+Problem ID  1069  Problem 是否阶乘之和  提交人数19  AC人数8
+Problem ID  1070  Problem求年月日  提交人数101  AC人数0
+Problem ID  1071  Problem还是平均分  提交人数475  AC人数237
+Problem ID  1072  Problem【数组】 一维数组基本练习  提交人数407  AC人数338
+Problem ID  1073  Problem【数组】最大值和最小值  提交人数1445  AC人数815
+Problem ID  1074  Problem【数组】单位矩阵初始化  提交人数1108  AC人数680
+Problem ID  1075  ProblemGPA  提交人数11  AC人数6
+Problem ID  1077  Problem【数组】平均分及不及格人数  提交人数713  AC人数422
+Problem ID  1078  Problem【数组】逆序输出  提交人数611  AC人数387
+Problem ID  1079  Problem【数组】无序数组的查找   提交人数1677  AC人数803
+Problem ID  1080  Problem【数组】二维数组最大值及位置  提交人数1207  AC人数511
+Problem ID  1081  Problemsusan的货币兑换  提交人数812  AC人数261
+Problem ID  1082  Problem寻找重复数字  提交人数541  AC人数80
+Problem ID  1085  Problem【数组】二维数组求行平均值  提交人数292  AC人数223
+Problem ID  1086  Problem我赵日天不服！  提交人数3  AC人数2
+Problem ID  1087  ProblemXY Loves LOL  提交人数1  AC人数1
+Problem ID  1088  Problem首签是我的  提交人数1  AC人数1
+Problem ID  1089  Problem欧拉欧拉欧拉！  提交人数7  AC人数1
+Problem ID  1090  Problem無駄無駄無駄！  提交人数2  AC人数1
+Problem ID  1091  Problem可怜的目暮警官  提交人数11  AC人数1
+Problem ID  1092  ProblemEvolution  提交人数1  AC人数1
+Problem ID  1093  Problem游戏机  提交人数1  AC人数1
+Problem ID  1094  Problem买买买  提交人数1  AC人数1
+Problem ID  1097  Problem二进制中有多少个1  提交人数770  AC人数290
+Problem ID  1098  Problem二哥摘苹果  提交人数1453  AC人数1070
+Problem ID  1101  Problem2^k进制数  提交人数8  AC人数4
+Problem ID  1102  ProblemCylinder  提交人数5  AC人数2
+Problem ID  1104  ProblemC语言考试练习题_保留字母  提交人数288  AC人数135
+Problem ID  1105  ProblemC语言考试练习题_排列  提交人数64  AC人数30
+Problem ID  1106  ProblemDNA  提交人数59  AC人数25
+Problem ID  1107  ProblemIP判断  提交人数53  AC人数25
+Problem ID  1108  ProblemJam的计数法  提交人数2  AC人数2
+Problem ID  1110  ProblemTom数  提交人数311  AC人数97
+Problem ID  1112  Problem【C语言训练】"水仙花数"问题2  提交人数177  AC人数174
+Problem ID  1114  Problem【C语言训练】亲密数  提交人数76  AC人数75
+Problem ID  1115  Problem【C语言训练】列出最简真分数序列*  提交人数142  AC人数140
+Problem ID  1116  Problem【C语言训练】大、小写问题  提交人数1121  AC人数610
+Problem ID  1117  Problem【C语言训练】委派任务*  提交人数57  AC人数55
+Problem ID  1118  Problem【C语言训练】字符串正反连接  提交人数267  AC人数161
+Problem ID  1119  Problem【C语言训练】尼科彻斯定理  提交人数178  AC人数128
+Problem ID  1120  Problem【C语言训练】排序问题<1>  提交人数125  AC人数67
+Problem ID  1121  Problem【C语言训练】排序问题<2>  提交人数65  AC人数40
+Problem ID  1122  Problem【C语言训练】数字母  提交人数122  AC人数61
+Problem ID  1123  Problem【C语言训练】斐波纳契数列  提交人数207  AC人数125
+Problem ID  1124  Problem【C语言训练】最大数问题  提交人数231  AC人数87
+Problem ID  1125  Problem【C语言训练】求1+2!+3!+...+N!的和  提交人数486  AC人数106
+Problem ID  1126  Problem【C语言训练】求PI*  提交人数60  AC人数24
+Problem ID  1127  Problem【C语言训练】求s=a+aa+aaa+aaaa+aa...a的值  提交人数242  AC人数130
+Problem ID  1129  Problem【C语言训练】求函数值  提交人数96  AC人数88
+Problem ID  1130  Problem【C语言训练】求矩阵的两对角线上的元素之和  提交人数610  AC人数226
+Problem ID  1131  Problem【C语言训练】求素数问题  提交人数154  AC人数113
+Problem ID  1132  Problem【C语言训练】求车速  提交人数55  AC人数54
+Problem ID  1133  Problem【C语言训练】百钱百鸡问题  提交人数317  AC人数90
+Problem ID  1134  Problem【C语言训练】立方和不等式  提交人数110  AC人数59
+Problem ID  1135  Problem【C语言训练】素数问题  提交人数102  AC人数92
+Problem ID  1136  Problem【C语言训练】自守数问题  提交人数26  AC人数26
+Problem ID  1137  Problem【C语言训练】自由落体问题  提交人数116  AC人数76
+Problem ID  1138  Problem【C语言训练】舍罕王的失算  提交人数58  AC人数56
+Problem ID  1139  Problem【C语言训练】角谷猜想  提交人数165  AC人数140
+Problem ID  1140  Problem【C语言训练】计算1977！*  提交人数24  AC人数6
+Problem ID  1141  Problem【C语言训练】计算1~N之间所有奇数之和  提交人数85  AC人数85
+Problem ID  1142  Problem【C语言训练】计算t=1+1/2+1/3+...+1/n  提交人数609  AC人数332
+Problem ID  1143  Problem【C语言训练】计算一个整数N的阶乘  提交人数86  AC人数74
+Problem ID  1144  Problem【C语言训练】计算：t=1-1/(2*2)-1/(3*3)-...-1/(m*m)  提交人数79  AC人数54
+Problem ID  1145  Problem【C语言训练】谁家孩子跑最慢*   提交人数33  AC人数33
+Problem ID  1146  Problem【C语言训练】邮票组合问题*  提交人数45  AC人数42
+Problem ID  1149  Problem【亲和数】  提交人数57  AC人数36
+Problem ID  1150  Problem【作业调度方案】  提交人数10  AC人数4
+Problem ID  1151  Problem【偶数求和】  提交人数22  AC人数13
+Problem ID  1152  Problem【出圈】  提交人数130  AC人数15
+Problem ID  1153  Problem【回文数(二)】  提交人数14  AC人数2
+Problem ID  1154  Problem【密码】  提交人数146  AC人数37
+Problem ID  1155  Problem【排队买票】  提交人数16  AC人数5
+Problem ID  1156  Problem【数组的距离】  提交人数383  AC人数151
+Problem ID  1157  Problem【明明的随机数】  提交人数15  AC人数7
+Problem ID  1158  Problem【求[X,Y]内被除3余1并且被除5余3的整数的和】  提交人数42  AC人数41
+Problem ID  1159  Problem【矩阵】  提交人数8  AC人数0
+Problem ID  1160  Problem【简单计算】  提交人数1  AC人数0
+Problem ID  1161  Problem【绝对值排序】  提交人数264  AC人数98
+Problem ID  1162  Problem【能量项链】  提交人数1  AC人数1
+Problem ID  1163  Problem【蟠桃记】  提交人数39  AC人数34
+Problem ID  1164  Problem【计算两点间的距离】  提交人数290  AC人数194
+Problem ID  1165  Problem【计算球体积】  提交人数49  AC人数42
+Problem ID  1166  Problem【计算直线的交点数】  提交人数9  AC人数2
+Problem ID  1167  Problem【金明的预算方案】  提交人数4  AC人数0
+Problem ID  1168  Problem【魔板】  提交人数2  AC人数1
+Problem ID  1169  Problem三角形  提交人数14  AC人数7
+Problem ID  1170  Problem三进制小数  提交人数13  AC人数5
+Problem ID  1171  Problem上车人数  提交人数6  AC人数5
+Problem ID  1172  Problem不容易系列  提交人数15  AC人数15
+Problem ID  1173  Problem不容易系列2  提交人数9  AC人数9
+Problem ID  1174  Problem人民币问题  提交人数22  AC人数19
+Problem ID  1175  Problem人见人爱A+B  提交人数43  AC人数30
+Problem ID  1176  Problem众数问题  提交人数9  AC人数6
+Problem ID  1177  Problem作业调度方案  提交人数1  AC人数1
+Problem ID  1178  Problem倒杨辉三角形  提交人数37  AC人数4
+Problem ID  1179  Problem假币问题  提交人数37  AC人数3
+Problem ID  1180  Problem做幻方  提交人数6  AC人数1
+Problem ID  1181  Problem内码对称  提交人数5  AC人数3
+Problem ID  1182  Problem剔除相关数  提交人数1  AC人数1
+Problem ID  1183  Problem化学品问题  提交人数4  AC人数2
+Problem ID  1184  Problem十->二进制转换  提交人数7  AC人数1
+Problem ID  1185  Problem半数集问题  提交人数1  AC人数1
+Problem ID  1186  Problem去括号  提交人数1  AC人数0
+Problem ID  1187  Problem去掉双斜杠注释  提交人数17  AC人数2
+Problem ID  1188  Problem去掉空格  提交人数9  AC人数6
+Problem ID  1190  Problem取石子游戏  提交人数3  AC人数1
+Problem ID  1191  Problem哥德巴赫曾猜测  提交人数32  AC人数17
+Problem ID  1192  Problem回文串  提交人数28  AC人数13
+Problem ID  1193  Problem回文数(一)  提交人数70  AC人数54
+Problem ID  1194  Problem多输入输出练习1  提交人数52  AC人数34
+Problem ID  1195  Problem多输入输出练习2  提交人数21  AC人数16
+Problem ID  1196  Problem大小写转换  提交人数49  AC人数29
+Problem ID  1197  Problem字符串的修改  提交人数39  AC人数15
+Problem ID  1198  Problem字符串问题  提交人数124  AC人数70
+Problem ID  1199  Problem字符排列问题  提交人数24  AC人数17
+Problem ID  1200  Problem孤独的骑士  提交人数12  AC人数5
+Problem ID  1201  Problem密码截获  提交人数18  AC人数4
+Problem ID  1202  Problem小明A+B  提交人数180  AC人数135
+Problem ID  1204  Problem年会  提交人数0  AC人数0
+Problem ID  1205  Problem幸运儿  提交人数9  AC人数0
+Problem ID  1206  Problem开心的金明  提交人数8  AC人数5
+Problem ID  1207  Problem恺撒密码  提交人数179  AC人数62
+Problem ID  1208  Problem愚蠢的摄影师  提交人数10  AC人数5
+Problem ID  1210  Problem换位置  提交人数5  AC人数5
+Problem ID  1211  Problem排列  提交人数7  AC人数3
+Problem ID  1212  Problem数列  提交人数3  AC人数2
+Problem ID  1213  Problem数列排序  提交人数91  AC人数31
+Problem ID  1214  Problem数列有序  提交人数10  AC人数3
+Problem ID  1217  Problem敲七  提交人数20  AC人数9
+Problem ID  1218  Problem整除的尾数  提交人数15  AC人数9
+Problem ID  1219  Problem文科生的悲哀  提交人数12  AC人数3
+Problem ID  1220  Problem方砖问题  提交人数6  AC人数1
+Problem ID  1221  Problem日期排序  提交人数6  AC人数3
+Problem ID  1222  Problem明明的随机数  提交人数10  AC人数4
+Problem ID  1223  Problem最多约数问题  提交人数8  AC人数0
+Problem ID  1224  Problem最小公倍数  提交人数100  AC人数76
+Problem ID  1225  Problem最小重量机器设计问题  提交人数7  AC人数0
+Problem ID  1227  Problem查找最大元素  提交人数3  AC人数3
+Problem ID  1228  Problem核电站问题  提交人数1  AC人数1
+Problem ID  1229  Problem检查一个数是否为质数  提交人数24  AC人数23
+Problem ID  1230  Problem检查金币  提交人数6  AC人数1
+Problem ID  1231  Problem母牛生小牛  提交人数5  AC人数3
+Problem ID  1232  Problem求组合数  提交人数3  AC人数3
+Problem ID  1233  Problem演讲大赛评分  提交人数1  AC人数1
+Problem ID  1234  Problem班级人数  提交人数6  AC人数6
+Problem ID  1235  Problem生日日数  提交人数1  AC人数1
+Problem ID  1236  Problem盐水的故事  提交人数84  AC人数19
+Problem ID  1238  Problem破解平方数  提交人数3  AC人数0
+Problem ID  1239  Problem破解简单密码  提交人数293  AC人数32
+Problem ID  1240  Problem神奇的fans  提交人数99  AC人数16
+Problem ID  1241  Problem第几天  提交人数8  AC人数8
+Problem ID  1243  Problem简单的事情  提交人数7  AC人数4
+Problem ID  1244  Problem简单编码  提交人数31  AC人数0
+Problem ID  1245  Problem素数回文  提交人数94  AC人数52
+Problem ID  1247  Problem统计立方数  提交人数82  AC人数21
+Problem ID  1248  Problem老王赛马  提交人数9  AC人数2
+Problem ID  1249  Problem考试排名  提交人数9  AC人数2
+Problem ID  1250  Problem能量项链  提交人数3  AC人数2
+Problem ID  1251  Problem诡秘的余数  提交人数6  AC人数0
+Problem ID  1252  Problem超级楼梯  提交人数4  AC人数4
+Problem ID  1253  Problem连续自然数和  提交人数9  AC人数0
+Problem ID  1254  Problem送分题素数  提交人数16  AC人数10
+Problem ID  1255  Problem逆反的01串  提交人数8  AC人数3
+Problem ID  1256  Problem速算24点  提交人数14  AC人数4
+Problem ID  1257  Problem邮局选址问题  提交人数1  AC人数1
+Problem ID  1258  Problem金明的预算方案  提交人数2  AC人数2
+Problem ID  1259  Problem防御导弹  提交人数9  AC人数2
+Problem ID  1260  Problem青年歌手大奖赛_评委会打分  提交人数1163  AC人数580
+Problem ID  1261  Problem马拦过河卒  提交人数4  AC人数2
+Problem ID  1262  Problem奖学金  提交人数17  AC人数6
+Problem ID  1263  Problem纪念品分组  提交人数2  AC人数2
+Problem ID  1264  Problem守望者的逃离  提交人数2  AC人数2
+Problem ID  1265  ProblemHanoi双塔问题  提交人数1  AC人数1
+Problem ID  1266  Problem不高兴的津津  提交人数3  AC人数3
+Problem ID  1267  Problem花生采摘  提交人数2  AC人数2
+Problem ID  1268  ProblemFBI树  提交人数2  AC人数2
+Problem ID  1269  Problem火星人  提交人数3  AC人数2
+Problem ID  1270  Problem乒乓球  提交人数6  AC人数2
+Problem ID  1271  Problem数字游戏  提交人数2  AC人数2
+Problem ID  1272  Problem栈  提交人数2  AC人数2
+Problem ID  1273  Problem麦森数  提交人数12  AC人数0
+Problem ID  1274  Problem级数求和  提交人数17  AC人数9
+Problem ID  1275  Problem选数  提交人数2  AC人数2
+Problem ID  1276  Problem产生数  提交人数4  AC人数2
+Problem ID  1277  Problem过河卒  提交人数5  AC人数2
+Problem ID  1278  Problem采油区域  提交人数6  AC人数0
+Problem ID  1279  Problem会议中心  提交人数4  AC人数0
+Problem ID  1280  Problem抢掠计划  提交人数1  AC人数1
+Problem ID  1281  ProblemVIJOS-P1000  提交人数44  AC人数43
+Problem ID  1282  ProblemVIJOS-P1001  提交人数4  AC人数3
+Problem ID  1283  ProblemVIJOS-P1002  提交人数4  AC人数2
+Problem ID  1284  ProblemVIJOS-P1003  提交人数1  AC人数1
+Problem ID  1285  ProblemVIJOS-P1004  提交人数1  AC人数1
+Problem ID  1286  ProblemVIJOS-P1005  提交人数6  AC人数0
+Problem ID  1287  ProblemVIJOS-P1006  提交人数1  AC人数1
+Problem ID  1288  ProblemVIJOS-P1007  提交人数3  AC人数2
+Problem ID  1289  ProblemVIJOS-P1008  提交人数1  AC人数1
+Problem ID  1290  ProblemVIJOS-P1009  提交人数3  AC人数0
+Problem ID  1291  ProblemVIJOS-P1010  提交人数1  AC人数1
+Problem ID  1292  ProblemVIJOS-P1011  提交人数6  AC人数0
+Problem ID  1293  ProblemVIJOS-P1012  提交人数1  AC人数0
+Problem ID  1294  ProblemVIJOS-P1013  提交人数1  AC人数1
+Problem ID  1295  ProblemVIJOS-P1014  提交人数2  AC人数1
+Problem ID  1296  ProblemVIJOS-P1015  提交人数1  AC人数1
+Problem ID  1297  ProblemVIJOS-P1016  提交人数1  AC人数0
+Problem ID  1298  ProblemVIJOS-P1017  提交人数0  AC人数0
+Problem ID  1299  ProblemVIJOS-P1018  提交人数1  AC人数0
+Problem ID  1300  ProblemVIJOS-P1019  提交人数3  AC人数2
+Problem ID  1301  ProblemVIJOS-P1020  提交人数1  AC人数1
+Problem ID  1302  ProblemVIJOS-P1021  提交人数6  AC人数0
+Problem ID  1303  ProblemVIJOS-P1022  提交人数2  AC人数1
+Problem ID  1304  ProblemVIJOS-P1023  提交人数1  AC人数1
+Problem ID  1305  ProblemVIJOS-P1024  提交人数1  AC人数1
+Problem ID  1306  ProblemVIJOS-P1025  提交人数1  AC人数1
+Problem ID  1307  ProblemVIJOS-P1026  提交人数2  AC人数1
+Problem ID  1308  ProblemVIJOS-P1027  提交人数1  AC人数1
+Problem ID  1309  ProblemVIJOS-P1028  提交人数2  AC人数1
+Problem ID  1310  ProblemVIJOS-P1029  提交人数1  AC人数0
+Problem ID  1311  ProblemVIJOS-P1030  提交人数1  AC人数0
+Problem ID  1312  ProblemVIJOS-P1031  提交人数0  AC人数0
+Problem ID  1313  ProblemVIJOS-P1032  提交人数1  AC人数0
+Problem ID  1314  ProblemVIJOS-P1033  提交人数3  AC人数3
+Problem ID  1315  ProblemVIJOS-P1034  提交人数2  AC人数2
+Problem ID  1316  ProblemVIJOS-P1035  提交人数3  AC人数3
+Problem ID  1317  ProblemVIJOS-P1036  提交人数1  AC人数0
+Problem ID  1318  ProblemVIJOS-P1037  提交人数5  AC人数1
+Problem ID  1319  ProblemVIJOS-P1038  提交人数2  AC人数1
+Problem ID  1320  ProblemVIJOS-P1039  提交人数1  AC人数1
+Problem ID  1321  ProblemVIJOS-P1040  提交人数2  AC人数2
+Problem ID  1322  ProblemVIJOS-P1041  提交人数1  AC人数1
+Problem ID  1323  ProblemVIJOS-P1042  提交人数5  AC人数1
+Problem ID  1324  ProblemVIJOS-P1044  提交人数0  AC人数0
+Problem ID  1325  ProblemVIJOS-P1045  提交人数1  AC人数0
+Problem ID  1326  ProblemVIJOS-P1046  提交人数1  AC人数0
+Problem ID  1327  ProblemVIJOS-P1047  提交人数3  AC人数2
+Problem ID  1328  ProblemVIJOS-P1048  提交人数1  AC人数0
+Problem ID  1329  ProblemVIJOS-P1051  提交人数1  AC人数1
+Problem ID  1330  ProblemVIJOS-P1052  提交人数3  AC人数0
+Problem ID  1331  ProblemVIJOS-P1053  提交人数1  AC人数1
+Problem ID  1332  ProblemVIJOS-P1071  提交人数4  AC人数0
+Problem ID  1333  ProblemVIJOS-P1072  提交人数1  AC人数1
+Problem ID  1334  ProblemVIJOS-P1073  提交人数2  AC人数0
+Problem ID  1335  ProblemVIJOS-P1076  提交人数5  AC人数1
+Problem ID  1336  ProblemVIJOS-P1078  提交人数1  AC人数1
+Problem ID  1337  ProblemVIJOS-P1080  提交人数1  AC人数1
+Problem ID  1338  ProblemVIJOS-P1081  提交人数1  AC人数0
+Problem ID  1339  ProblemVIJOS-P1091  提交人数1  AC人数0
+Problem ID  1340  ProblemVIJOS-P1156  提交人数1  AC人数0
+Problem ID  1341  ProblemVIJOS-P1157  提交人数2  AC人数2
+Problem ID  1342  ProblemVIJOS-P1159  提交人数1  AC人数0
+Problem ID  1343  ProblemVIJOS-P1162  提交人数1  AC人数1
+Problem ID  1344  ProblemVIJOS-P1164  提交人数1  AC人数1
+Problem ID  1345  ProblemVIJOS-P1165  提交人数2  AC人数1
+Problem ID  1346  ProblemVIJOS-P1166  提交人数1  AC人数1
+Problem ID  1347  ProblemVIJOS-P1167  提交人数1  AC人数1
+Problem ID  1348  ProblemVIJOS-P1168  提交人数0  AC人数0
+Problem ID  1349  ProblemVIJOS-P1169  提交人数1  AC人数1
+Problem ID  1350  ProblemVIJOS-P1171  提交人数0  AC人数0
+Problem ID  1351  ProblemVIJOS-P1172  提交人数1  AC人数1
+Problem ID  1352  ProblemVIJOS-P1176  提交人数1  AC人数1
+Problem ID  1353  ProblemVIJOS-P1178  提交人数1  AC人数1
+Problem ID  1354  ProblemVIJOS-P1179  提交人数1  AC人数0
+Problem ID  1355  ProblemVIJOS-P1180  提交人数1  AC人数0
+Problem ID  1356  ProblemVIJOS-P1181  提交人数1  AC人数1
+Problem ID  1357  ProblemVIJOS-P1182  提交人数1  AC人数1
+Problem ID  1358  ProblemVIJOS-P1184  提交人数0  AC人数0
+Problem ID  1359  ProblemVIJOS-P1232  提交人数2  AC人数0
+Problem ID  1360  ProblemVIJOS-P1234  提交人数1  AC人数1
+Problem ID  1361  ProblemVIJOS-P1235  提交人数1  AC人数1
+Problem ID  1362  ProblemVIJOS-P1236  提交人数2  AC人数1
+Problem ID  1363  ProblemVIJOS-P1237  提交人数1  AC人数1
+Problem ID  1364  ProblemVIJOS-P1238  提交人数1  AC人数0
+Problem ID  1365  ProblemVIJOS-P1242  提交人数1  AC人数1
+Problem ID  1366  ProblemVIJOS-P1244  提交人数1  AC人数1
+Problem ID  1367  ProblemVIJOS-P1245  提交人数0  AC人数0
+Problem ID  1368  ProblemVIJOS-P1246  提交人数0  AC人数0
+Problem ID  1369  ProblemVIJOS-P1248  提交人数1  AC人数1
+Problem ID  1370  ProblemVIJOS-P1249  提交人数2  AC人数1
+Problem ID  1371  ProblemVIJOS-P1250  提交人数1  AC人数1
+Problem ID  1372  ProblemVIJOS-P1253  提交人数0  AC人数0
+Problem ID  1373  ProblemVIJOS-P1255  提交人数1  AC人数0
+Problem ID  1374  ProblemVIJOS-P1257  提交人数1  AC人数1
+Problem ID  1375  ProblemVIJOS-P1258  提交人数1  AC人数1
+Problem ID  1376  ProblemVIJOS-P1263  提交人数0  AC人数0
+Problem ID  1377  ProblemVIJOS-P1264  提交人数1  AC人数1
+Problem ID  1378  ProblemVIJOS-P1277  提交人数0  AC人数0
+Problem ID  1379  ProblemVIJOS-P1279  提交人数1  AC人数1
+Problem ID  1380  ProblemVIJOS-P1280  提交人数0  AC人数0
+Problem ID  1381  ProblemVIJOS-P1281  提交人数1  AC人数1
+Problem ID  1382  ProblemVIJOS-P1282  提交人数1  AC人数0
+Problem ID  1383  ProblemVIJOS-P1283  提交人数0  AC人数0
+Problem ID  1384  ProblemVIJOS-P1284  提交人数0  AC人数0
+Problem ID  1385  ProblemVIJOS-P1285  提交人数1  AC人数1
+Problem ID  1386  ProblemVIJOS-P1286  提交人数1  AC人数0
+Problem ID  1387  ProblemVIJOS-P1288  提交人数0  AC人数0
+Problem ID  1388  ProblemVIJOS-P1290  提交人数1  AC人数0
+Problem ID  1389  ProblemVIJOS-P1291  提交人数1  AC人数1
+Problem ID  1390  ProblemVIJOS-P1292  提交人数1  AC人数1
+Problem ID  1391  ProblemVIJOS-P1294  提交人数1  AC人数0
+Problem ID  1392  ProblemVIJOS-P1297  提交人数1  AC人数1
+Problem ID  1393  ProblemVIJOS-P1299  提交人数0  AC人数0
+Problem ID  1394  ProblemVIJOS-P1300  提交人数1  AC人数1
+Problem ID  1395  ProblemVIJOS-P1301  提交人数0  AC人数0
+Problem ID  1396  ProblemVIJOS-P1302  提交人数2  AC人数0
+Problem ID  1397  ProblemVIJOS-P1303  提交人数1  AC人数1
+Problem ID  1398  ProblemVIJOS-P1304  提交人数4  AC人数0
+Problem ID  1399  ProblemVIJOS-P1306  提交人数1  AC人数1
+Problem ID  1400  ProblemVIJOS-P1307  提交人数4  AC人数2
+Problem ID  1401  ProblemVIJOS-P1308  提交人数7  AC人数0
+Problem ID  1402  ProblemVIJOS-P1309  提交人数1  AC人数1
+Problem ID  1403  ProblemVIJOS-P1310  提交人数0  AC人数0
+Problem ID  1404  ProblemVIJOS-P1311  提交人数4  AC人数0
+Problem ID  1405  ProblemVIJOS-P1312  提交人数0  AC人数0
+Problem ID  1406  ProblemVIJOS-P1313  提交人数1  AC人数0
+Problem ID  1407  ProblemVIJOS-P1314  提交人数1  AC人数0
+Problem ID  1408  ProblemVIJOS-P1315  提交人数1  AC人数0
+Problem ID  1409  ProblemVIJOS-P1316  提交人数2  AC人数0
+Problem ID  1410  ProblemVIJOS-P1317  提交人数1  AC人数0
+Problem ID  1411  ProblemVIJOS-P1318  提交人数1  AC人数0
+Problem ID  1412  ProblemVIJOS-P1319  提交人数0  AC人数0
+Problem ID  1413  ProblemVIJOS-P1320  提交人数0  AC人数0
+Problem ID  1414  ProblemVIJOS-P1321  提交人数0  AC人数0
+Problem ID  1415  ProblemVIJOS-P1322  提交人数1  AC人数0
+Problem ID  1416  ProblemVIJOS-P1323  提交人数1  AC人数1
+Problem ID  1417  ProblemVIJOS-P1324  提交人数1  AC人数1
+Problem ID  1418  ProblemVIJOS-P1325  提交人数0  AC人数0
+Problem ID  1419  ProblemVIJOS-P1327  提交人数1  AC人数0
+Problem ID  1420  ProblemVIJOS-P1328  提交人数0  AC人数0
+Problem ID  1421  ProblemVIJOS-P1329  提交人数0  AC人数0
+Problem ID  1422  ProblemVIJOS-P1331  提交人数1  AC人数1
+Problem ID  1423  ProblemVIJOS-P1333  提交人数3  AC人数0
+Problem ID  1424  ProblemVIJOS-P1334  提交人数1  AC人数1
+Problem ID  1425  ProblemVIJOS-P1335  提交人数1  AC人数1
+Problem ID  1426  ProblemVIJOS-P1336  提交人数2  AC人数1
+Problem ID  1427  ProblemVIJOS-P1337  提交人数0  AC人数0
+Problem ID  1428  ProblemVIJOS-P1338  提交人数0  AC人数0
+Problem ID  1429  ProblemVIJOS-P1339  提交人数0  AC人数0
+Problem ID  1430  ProblemVIJOS-P1340  提交人数1  AC人数1
+Problem ID  1431  ProblemVIJOS-P1341  提交人数0  AC人数0
+Problem ID  1432  ProblemVIJOS-P1342  提交人数4  AC人数1
+Problem ID  1433  ProblemVIJOS-P1343  提交人数13  AC人数0
+Problem ID  1434  ProblemVIJOS-P1344  提交人数0  AC人数0
+Problem ID  1435  ProblemVIJOS-P1345  提交人数1  AC人数0
+Problem ID  1436  ProblemVIJOS-P1346  提交人数1  AC人数1
+Problem ID  1437  ProblemVIJOS-P1347  提交人数1  AC人数1
+Problem ID  1438  ProblemVIJOS-P1350  提交人数0  AC人数0
+Problem ID  1439  ProblemVIJOS-P1351  提交人数0  AC人数0
+Problem ID  1440  ProblemVIJOS-P1352  提交人数1  AC人数0
+Problem ID  1441  ProblemVIJOS-P1353  提交人数2  AC人数0
+Problem ID  1442  ProblemVIJOS-P1354  提交人数0  AC人数0
+Problem ID  1443  ProblemVIJOS-P1355  提交人数0  AC人数0
+Problem ID  1444  ProblemVIJOS-P1356  提交人数0  AC人数0
+Problem ID  1445  ProblemVIJOS-P1357  提交人数0  AC人数0
+Problem ID  1446  ProblemVIJOS-P1359  提交人数1  AC人数1
+Problem ID  1447  ProblemVIJOS-P1360  提交人数1  AC人数1
+Problem ID  1448  ProblemVIJOS-P1361  提交人数1  AC人数1
+Problem ID  1449  ProblemVIJOS-P1362  提交人数1  AC人数0
+Problem ID  1450  ProblemVIJOS-P1363  提交人数1  AC人数1
+Problem ID  1451  ProblemVIJOS-P1364  提交人数1  AC人数1
+Problem ID  1452  ProblemVIJOS-P1365  提交人数0  AC人数0
+Problem ID  1453  ProblemVIJOS-P1366  提交人数0  AC人数0
+Problem ID  1454  ProblemVIJOS-P1367  提交人数1  AC人数1
+Problem ID  1455  ProblemVIJOS-P1368  提交人数1  AC人数1
+Problem ID  1456  ProblemVIJOS-P1369  提交人数1  AC人数0
+Problem ID  1457  ProblemVIJOS-P1370  提交人数1  AC人数0
+Problem ID  1458  ProblemVIJOS-P1371  提交人数0  AC人数0
+Problem ID  1459  ProblemVIJOS-P1372  提交人数0  AC人数0
+Problem ID  1460  ProblemVIJOS-P1373  提交人数0  AC人数0
+Problem ID  1461  ProblemVIJOS-P1375  提交人数5  AC人数0
+Problem ID  1462  ProblemVIJOS-P1377  提交人数0  AC人数0
+Problem ID  1463  ProblemVIJOS-P1378  提交人数0  AC人数0
+Problem ID  1464  ProblemVIJOS-P1379  提交人数1  AC人数0
+Problem ID  1465  ProblemVIJOS-P1380  提交人数1  AC人数1
+Problem ID  1466  ProblemVIJOS-P1381  提交人数0  AC人数0
+Problem ID  1467  ProblemVIJOS-P1382  提交人数0  AC人数0
+Problem ID  1468  ProblemVIJOS-P1383  提交人数1  AC人数1
+Problem ID  1469  ProblemVIJOS-P1384  提交人数0  AC人数0
+Problem ID  1470  ProblemVIJOS-P1385  提交人数1  AC人数1
+Problem ID  1471  ProblemVIJOS-P1386  提交人数3  AC人数0
+Problem ID  1472  ProblemVIJOS-P1388  提交人数1  AC人数0
+Problem ID  1473  ProblemVIJOS-P1389  提交人数1  AC人数1
+Problem ID  1474  ProblemVIJOS-P1390  提交人数0  AC人数0
+Problem ID  1475  ProblemVIJOS-P1391  提交人数1  AC人数1
+Problem ID  1476  ProblemVIJOS-P1393  提交人数1  AC人数1
+Problem ID  1477  ProblemVIJOS-P1397  提交人数0  AC人数0
+Problem ID  1478  ProblemVIJOS-P1398  提交人数1  AC人数0
+Problem ID  1479  ProblemVIJOS-P1399  提交人数0  AC人数0
+Problem ID  1480  ProblemVIJOS-P1401  提交人数1  AC人数1
+Problem ID  1481  ProblemVIJOS-P1404  提交人数1  AC人数0
+Problem ID  1482  ProblemVIJOS-P1405  提交人数0  AC人数0
+Problem ID  1483  ProblemVIJOS-P1406  提交人数1  AC人数1
+Problem ID  1484  ProblemVIJOS-P1407  提交人数1  AC人数0
+Problem ID  1485  ProblemVIJOS-P1408  提交人数1  AC人数0
+Problem ID  1486  ProblemVIJOS-P1409  提交人数1  AC人数1
+Problem ID  1487  ProblemVIJOS-P1412  提交人数1  AC人数0
+Problem ID  1488  ProblemVIJOS-P1414  提交人数2  AC人数1
+Problem ID  1489  ProblemVIJOS-P1415  提交人数1  AC人数1
+Problem ID  1490  ProblemVIJOS-P1417  提交人数0  AC人数0
+Problem ID  1491  ProblemVIJOS-P1419  提交人数0  AC人数0
+Problem ID  1492  ProblemVIJOS-P1421  提交人数0  AC人数0
+Problem ID  1493  ProblemVIJOS-P1423  提交人数0  AC人数0
+Problem ID  1494  ProblemVIJOS-P1424  提交人数1  AC人数0
+Problem ID  1495  ProblemVIJOS-P1425  提交人数1  AC人数1
+Problem ID  1496  ProblemVIJOS-P1426  提交人数3  AC人数0
+Problem ID  1497  ProblemVIJOS-P1427  提交人数1  AC人数1
+Problem ID  1498  ProblemVIJOS-P1428  提交人数1  AC人数1
+Problem ID  1499  ProblemVIJOS-P1431  提交人数5  AC人数0
+Problem ID  1500  ProblemVIJOS-P1432  提交人数1  AC人数0
+Problem ID  1501  ProblemVIJOS-P1433  提交人数4  AC人数0
+Problem ID  1502  ProblemVIJOS-P1434  提交人数1  AC人数1
+Problem ID  1503  ProblemVIJOS-P1436  提交人数0  AC人数0
+Problem ID  1504  ProblemVIJOS-P1437  提交人数0  AC人数0
+Problem ID  1505  ProblemVIJOS-P1439  提交人数1  AC人数1
+Problem ID  1506  ProblemVIJOS-P1441  提交人数1  AC人数1
+Problem ID  1507  ProblemVIJOS-P1443  提交人数1  AC人数0
+Problem ID  1508  ProblemVIJOS-P1445  提交人数1  AC人数0
+Problem ID  1509  ProblemVIJOS-P1446  提交人数1  AC人数1
+Problem ID  1510  ProblemVIJOS-P1447  提交人数1  AC人数0
+Problem ID  1511  ProblemVIJOS-P1448  提交人数1  AC人数1
+Problem ID  1512  ProblemVIJOS-P1449  提交人数1  AC人数1
+Problem ID  1513  ProblemVIJOS-P1450  提交人数1  AC人数0
+Problem ID  1514  ProblemVIJOS-P1454  提交人数1  AC人数1
+Problem ID  1515  ProblemVIJOS-P1461  提交人数0  AC人数0
+Problem ID  1516  ProblemVIJOS-P1465  提交人数0  AC人数0
+Problem ID  1517  ProblemVIJOS-P1472  提交人数0  AC人数0
+Problem ID  1518  ProblemVIJOS-P1474  提交人数1  AC人数1
+Problem ID  1519  ProblemVIJOS-P1475  提交人数2  AC人数0
+Problem ID  1520  ProblemVIJOS-P1482  提交人数2  AC人数0
+Problem ID  1521  ProblemVIJOS-P1484  提交人数8  AC人数0
+Problem ID  1522  ProblemVIJOS-P1485  提交人数1  AC人数1
+Problem ID  1523  ProblemVIJOS-P1492  提交人数0  AC人数0
+Problem ID  1524  ProblemVIJOS-P1493  提交人数0  AC人数0
+Problem ID  1525  ProblemVIJOS-P1495  提交人数0  AC人数0
+Problem ID  1526  ProblemVIJOS-P1496  提交人数0  AC人数0
+Problem ID  1527  ProblemVIJOS-P1497  提交人数1  AC人数0
+Problem ID  1528  ProblemVIJOS-P1498  提交人数1  AC人数0
+Problem ID  1529  ProblemVIJOS-P1500  提交人数1  AC人数0
+Problem ID  1530  ProblemVIJOS-P1501  提交人数1  AC人数1
+Problem ID  1531  ProblemVIJOS-P1503  提交人数0  AC人数0
+Problem ID  1532  ProblemVIJOS-P1507  提交人数1  AC人数0
+Problem ID  1533  ProblemVIJOS-P1512  提交人数1  AC人数1
+Problem ID  1534  ProblemVIJOS-P1514  提交人数1  AC人数0
+Problem ID  1535  ProblemVIJOS-P1518  提交人数1  AC人数0
+Problem ID  1536  ProblemVIJOS-P1519  提交人数0  AC人数0
+Problem ID  1537  ProblemVIJOS-P1521  提交人数2  AC人数0
+Problem ID  1538  ProblemVIJOS-P1523  提交人数1  AC人数0
+Problem ID  1539  ProblemVIJOS-P1524  提交人数1  AC人数0
+Problem ID  1540  ProblemVIJOS-P1530  提交人数0  AC人数0
+Problem ID  1541  ProblemVIJOS-P1531  提交人数0  AC人数0
+Problem ID  1542  ProblemVIJOS-P1535  提交人数3  AC人数0
+Problem ID  1543  ProblemVIJOS-P1540  提交人数1  AC人数1
+Problem ID  1544  ProblemVIJOS-P1543  提交人数1  AC人数1
+Problem ID  1545  ProblemVIJOS-P1544  提交人数1  AC人数0
+Problem ID  1546  ProblemVIJOS-P1547  提交人数1  AC人数1
+Problem ID  1547  ProblemVIJOS-P1548  提交人数0  AC人数0
+Problem ID  1548  ProblemVIJOS-P1549  提交人数0  AC人数0
+Problem ID  1549  ProblemVIJOS-P1551  提交人数0  AC人数0
+Problem ID  1550  ProblemVIJOS-P1553  提交人数0  AC人数0
+Problem ID  1551  ProblemVIJOS-P1556  提交人数1  AC人数0
+Problem ID  1552  ProblemVIJOS-P1613  提交人数0  AC人数0
+Problem ID  1553  ProblemVIJOS-P1617  提交人数3  AC人数0
+Problem ID  1554  ProblemVIJOS-P1622  提交人数0  AC人数0
+Problem ID  1555  ProblemVIJOS-P1623  提交人数0  AC人数0
+Problem ID  1556  ProblemVIJOS-P1625  提交人数0  AC人数0
+Problem ID  1557  ProblemVIJOS-P1626  提交人数0  AC人数0
+Problem ID  1558  ProblemVIJOS-P1627  提交人数16  AC人数3
+Problem ID  1559  ProblemVIJOS-P1628  提交人数0  AC人数0
+Problem ID  1560  ProblemVIJOS-P1629  提交人数0  AC人数0
+Problem ID  1561  ProblemVIJOS-P1632  提交人数1  AC人数1
+Problem ID  1562  ProblemVIJOS-P1634  提交人数0  AC人数0
+Problem ID  1563  ProblemVIJOS-P1635  提交人数1  AC人数0
+Problem ID  1564  ProblemVIJOS-P1639  提交人数10  AC人数0
+Problem ID  1565  ProblemVIJOS-P1646  提交人数0  AC人数0
+Problem ID  1566  ProblemVIJOS-P1647  提交人数0  AC人数0
+Problem ID  1567  ProblemVIJOS-P1648  提交人数0  AC人数0
+Problem ID  1568  ProblemVIJOS-P1653  提交人数1  AC人数0
+Problem ID  1569  ProblemRank and File  提交人数1  AC人数1
+Problem ID  1570  ProblemThe Extent of the Problem  提交人数1  AC人数1
+Problem ID  1571  ProblemFiltration  提交人数1  AC人数1
+Problem ID  1572  ProblemLike Water for Clay  提交人数1  AC人数1
+Problem ID  1573  ProblemWandering Aimlessly  提交人数1  AC人数1
+Problem ID  1574  ProblemCables ... in Spaaace!  提交人数1  AC人数1
+Problem ID  1575  ProblemPatterns and Pictures  提交人数1  AC人数1
+Problem ID  1576  ProblemNo Wormholes Were Harmed...  提交人数1  AC人数1
+Problem ID  1577  ProblemTribute (Editor)  提交人数1  AC人数1
+Problem ID  1578  ProblemThe 3n + 1 problem  提交人数1  AC人数1
+Problem ID  1579  ProblemThe Blocks Problem  提交人数0  AC人数0
+Problem ID  1580  ProblemEcological Bin Packing  提交人数0  AC人数0
+Problem ID  1581  ProblemStacking Boxes  提交人数0  AC人数0
+Problem ID  1582  ProblemArbitrage  提交人数0  AC人数0
+Problem ID  1583  ProblemStars  提交人数0  AC人数0
+Problem ID  1584  ProblemHexagon  提交人数0  AC人数0
+Problem ID  1585  ProblemDomino Effect  提交人数0  AC人数0
+Problem ID  1586  ProblemPendulum  提交人数0  AC人数0
+Problem ID  1587  ProblemBorder  提交人数0  AC人数0
+Problem ID  1588  ProblemPackets  提交人数0  AC人数0
+Problem ID  1589  ProblemCrosswords (II)  提交人数0  AC人数0
+Problem ID  1590  ProblemIntervals  提交人数0  AC人数0
+Problem ID  1591  ProblemRobot  提交人数0  AC人数0
+Problem ID  1592  ProblemNetwork   提交人数0  AC人数0
+Problem ID  1593  Problem Joseph  提交人数0  AC人数0
+Problem ID  1594  ProblemSticks  提交人数3  AC人数0
+Problem ID  1595  ProblemTin Cutter  提交人数0  AC人数0
+Problem ID  1596  ProblemFORCAL  提交人数0  AC人数0
+Problem ID  1597  ProblemL-system  提交人数3  AC人数0
+Problem ID  1598  ProblemMaya Calendar  提交人数0  AC人数0
+Problem ID  1599  ProblemTransportation  提交人数0  AC人数0
+Problem ID  1600  ProblemJohn's trip  提交人数4  AC人数0
+Problem ID  1601  Problem Pipe  提交人数1  AC人数1
+Problem ID  1602  ProblemDepartment   提交人数1  AC人数0
+Problem ID  1603  ProblemNetwork Wars  提交人数0  AC人数0
+Problem ID  1604  ProblemStrategy  提交人数1  AC人数1
+Problem ID  1605  ProblemKeywords  提交人数0  AC人数0
+Problem ID  1606  ProblemCity Navigation  提交人数0  AC人数0
+Problem ID  1607  ProblemEeny Meeny  提交人数0  AC人数0
+Problem ID  1608  ProblemHearts  提交人数0  AC人数0
+Problem ID  1609  ProblemBonus Bonds  提交人数0  AC人数0
+Problem ID  1610  ProblemLaser Lines  提交人数0  AC人数0
+Problem ID  1611  ProblemRoman Numerals  提交人数0  AC人数0
+Problem ID  1612  ProblemPascal Program Lengths  提交人数0  AC人数0
+Problem ID  1613  ProblemSynchronous Design  提交人数0  AC人数0
+Problem ID  1614  Problem Triangle  提交人数0  AC人数0
+Problem ID  1615  ProblemSpreadsheet  提交人数0  AC人数0
+Problem ID  1616  ProblemPeter's Calculator  提交人数0  AC人数0
+Problem ID  1617  ProblemPartial differential equations  提交人数0  AC人数0
+Problem ID  1618  ProblemRoute Finding  提交人数0  AC人数0
+Problem ID  1619  ProblemCalendar  提交人数0  AC人数0
+Problem ID  1620  ProblemBeggar My Neighbour  提交人数0  AC人数0
+Problem ID  1621  ProblemCity Directions  提交人数0  AC人数0
+Problem ID  1622  ProblemString Computer  提交人数0  AC人数0
+Problem ID  1623  ProblemStamps  提交人数0  AC人数0
+Problem ID  1624  ProblemThe Sultan's Successors   提交人数0  AC人数0
+Problem ID  1625  ProblemXenosemantics  提交人数0  AC人数0
+Problem ID  1626  ProblemCar Trialling  提交人数0  AC人数0
+Problem ID  1627  ProblemCalculator Language  提交人数0  AC人数0
+Problem ID  1628  ProblemThe Errant Physicist  提交人数0  AC人数0
+Problem ID  1629  ProblemKrypton Factor  提交人数0  AC人数0
+Problem ID  1630  ProblemRoman Roulette  提交人数0  AC人数0
+Problem ID  1631  ProblemThe Psychic Poker Player  提交人数0  AC人数0
+Problem ID  1632  ProblemBumpy Objects  提交人数0  AC人数0
+Problem ID  1633  ProblemLoglan-A Logical Language  提交人数0  AC人数0
+Problem ID  1634  ProblemPolygons  提交人数0  AC人数0
+Problem ID  1635  ProblemOrchard Trees  提交人数0  AC人数0
+Problem ID  1636  ProblemForests  提交人数0  AC人数0
+Problem ID  1637  ProblemDouble Time  提交人数0  AC人数0
+Problem ID  1638  ProblemFermat vs. Pythagoras  提交人数0  AC人数0
+Problem ID  1639  ProblemSCUD Busters  提交人数0  AC人数0
+Problem ID  1640  ProblemMeta-Loopless Sorts  提交人数3  AC人数0
+Problem ID  1641  ProblemClimbing Trees  提交人数0  AC人数0
+Problem ID  1642  ProblemUnidirectional TSP  提交人数3  AC人数3
+Problem ID  1643  ProblemMutant Flatworld Explorers  提交人数0  AC人数0
+Problem ID  1644  ProblemPipe Fitters  提交人数0  AC人数0
+Problem ID  1645  ProblemTrees on the level  提交人数0  AC人数0
+Problem ID  1646  ProblemSearching Quickly  提交人数0  AC人数0
+Problem ID  1647  ProblemNumbering Paths  提交人数0  AC人数0
+Problem ID  1648  ProblemProblem A: Egypt  提交人数2  AC人数2
+Problem ID  1649  ProblemProblem B: Buzzwords  提交人数1  AC人数1
+Problem ID  1650  ProblemProblem C: Ferry Loading V  提交人数1  AC人数1
+Problem ID  1651  ProblemProblem D: Driving Range  提交人数1  AC人数1
+Problem ID  1652  ProblemProblem E: Frosh Week  提交人数1  AC人数1
+Problem ID  1653  ProblemProblem A:  Hay Points  提交人数1  AC人数1
+Problem ID  1654  ProblemProblem B:  Jogging Trails  提交人数1  AC人数1
+Problem ID  1655  ProblemProblem C: Beavergnaw   提交人数1  AC人数1
+Problem ID  1656  ProblemProblem D: Power Strings  提交人数1  AC人数0
+Problem ID  1657  ProblemProblem E:  Relatives  提交人数1  AC人数1
+Problem ID  1658  ProblemMC part deux  提交人数1  AC人数1
+Problem ID  1659  ProblemMoveable maze  提交人数1  AC人数1
+Problem ID  1660  ProblemPick up sticks  提交人数1  AC人数1
+Problem ID  1661  ProblemDigits  提交人数1  AC人数1
+Problem ID  1662  ProblemRotate to root  提交人数1  AC人数1
+Problem ID  1663  ProblemTic Tac Toe  提交人数1  AC人数1
+Problem ID  1664  ProblemFire!  提交人数1  AC人数1
+Problem ID  1665  ProblemNice Prefixes  提交人数1  AC人数1
+Problem ID  1666  ProblemConvex Hull  提交人数1  AC人数1
+Problem ID  1667  ProblemSlalom  提交人数1  AC人数1
+Problem ID  1668  ProblemLaurel Creek  提交人数8  AC人数3
+Problem ID  1669  ProblemRocket Stages  提交人数1  AC人数1
+Problem ID  1670  ProblemVirtual Friends  提交人数1  AC人数0
+Problem ID  1671  ProblemDominos  提交人数1  AC人数1
+Problem ID  1672  ProblemLogo  提交人数1  AC人数1
+Problem ID  1673  ProblemProblem A: Shopping  提交人数1  AC人数1
+Problem ID  1674  ProblemProblem B: Stack Machine  提交人数1  AC人数1
+Problem ID  1675  ProblemProblem C: Ideas  提交人数1  AC人数1
+Problem ID  1676  ProblemProblem D: HST  提交人数1  AC人数1
+Problem ID  1677  ProblemProblem E: Tunnelling the Earth  提交人数1  AC人数1
+Problem ID  1678  ProblemProblem A:  Return of the Jedi  提交人数1  AC人数1
+Problem ID  1679  ProblemProblem B:  Discrete Logging  提交人数1  AC人数1
+Problem ID  1680  ProblemProblem C:  Hardwood Species  提交人数1  AC人数1
+Problem ID  1681  ProblemProblem D:  Forests  提交人数1  AC人数1
+Problem ID  1682  ProblemProblem E:  A Star not a Tree?  提交人数1  AC人数1
+Problem ID  1683  ProblemSo you want to be a 2n-aire  提交人数1  AC人数1
+Problem ID  1684  ProblemFerry Loading III  提交人数1  AC人数1
+Problem ID  1685  ProblemPick-up sticks  提交人数1  AC人数1
+Problem ID  1686  ProblemRock-Paper-Scissors Tournament  提交人数1  AC人数1
+Problem ID  1687  ProblemStructural Equivalence  提交人数1  AC人数1
+Problem ID  1688  ProblemMincost  提交人数3  AC人数2
+Problem ID  1689  ProblemT和Y的计划  提交人数1  AC人数1
+Problem ID  1690  Problem骨牌铺方格  提交人数6  AC人数3
+Problem ID  1691  ProblemMax Area  提交人数1  AC人数1
+Problem ID  1692  ProblemExchange Rates  提交人数1  AC人数1
+Problem ID  1693  ProblemConformity  提交人数1  AC人数1
+Problem ID  1694  ProblemPseudoprime numbers  提交人数2  AC人数1
+Problem ID  1695  ProblemCarpool  提交人数1  AC人数1
+Problem ID  1696  Problem Friend or Foe?  提交人数1  AC人数1
+Problem ID  1697  ProblemTrainsorting  提交人数1  AC人数1
+Problem ID  1698  ProblemClassified  提交人数6  AC人数4
+Problem ID  1699  ProblemHot Spot  提交人数1  AC人数1
+Problem ID  1700  ProblemSnakes and Ladders  提交人数1  AC人数1
+Problem ID  1701  ProblemBalance  提交人数1  AC人数1
+Problem ID  1702  ProblemOpen Source  提交人数1  AC人数1
+Problem ID  1703  ProblemAntimonotonicity  提交人数1  AC人数1
+Problem ID  1704  ProblemHumidex  提交人数1  AC人数1
+Problem ID  1705  ProblemTour de France  提交人数1  AC人数1
+Problem ID  1706  ProblemTexas Trip  提交人数1  AC人数1
+Problem ID  1707  ProblemThe Trip, 2007  提交人数1  AC人数1
+Problem ID  1708  ProblemMall Mania  提交人数1  AC人数1
+Problem ID  1709  ProblemMoonshine  提交人数1  AC人数1
+Problem ID  1710  ProblemWFF   提交人数1  AC人数1
+Problem ID  1711  ProblemCousins  提交人数1  AC人数1
+Problem ID  1712  ProblemFerry Loading IV  提交人数1  AC人数1
+Problem ID  1713  ProblemCard Hands  提交人数1  AC人数1
+Problem ID  1714  ProblemEventually periodic sequence  提交人数1  AC人数1
+Problem ID  1715  ProblemPoint of view in Flatland  提交人数1  AC人数1
+Problem ID  1716  ProblemHow many 0  提交人数1  AC人数0
+Problem ID  1717  ProblemGreat Circle  提交人数1  AC人数1
+Problem ID  1718  ProblemUltra-QuickSort  提交人数1  AC人数1
+Problem ID  1719  ProblemUp the Ante  提交人数1  AC人数1
+Problem ID  1720  ProblemBeat the Spread!  提交人数1  AC人数1
+Problem ID  1721  ProblemTraditional BINGO  提交人数1  AC人数1
+Problem ID  1722  ProblemEducational journey  提交人数1  AC人数1
+Problem ID  1723  ProblemGo  提交人数1  AC人数1
+Problem ID  1724  ProblemMedals  提交人数1  AC人数1
+Problem ID  1725  ProblemFlipping colors  提交人数1  AC人数1
+Problem ID  1726  ProblemCrabbles  提交人数2  AC人数2
+Problem ID  1727  ProblemWar on Weather  提交人数1  AC人数1
+Problem ID  1728  ProblemFactstone Benchmark  提交人数1  AC人数1
+Problem ID  1729  ProblemA Walk Through the Forest  提交人数1  AC人数1
+Problem ID  1730  ProblemTri Tiling  提交人数2  AC人数2
+Problem ID  1731  ProblemPrerequisites?  提交人数1  AC人数1
+Problem ID  1732  ProblemBrownie Points I  提交人数1  AC人数1
+Problem ID  1733  ProblemMagic Bitstrings   提交人数1  AC人数1
+Problem ID  1734  ProblemCutting a polygon  提交人数1  AC人数1
+Problem ID  1735  ProblemBungee Jumping  提交人数1  AC人数1
+Problem ID  1736  ProblemBrownie Points II  提交人数10  AC人数2
+Problem ID  1737  ProblemFiber Communications  提交人数1  AC人数1
+Problem ID  1738  ProblemPower Hungry Cows  提交人数1  AC人数1
+Problem ID  1739  ProblemCow Cycling  提交人数1  AC人数1
+Problem ID  1740  ProblemRebuilding Roads  提交人数1  AC人数1
+Problem ID  1741  ProblemTriangular Pastures  提交人数1  AC人数1
+Problem ID  1742  ProblemChores  提交人数1  AC人数1
+Problem ID  1743  ProblemDessert  提交人数1  AC人数1
+Problem ID  1744  ProblemExtra Krunch  提交人数1  AC人数1
+Problem ID  1745  ProblemBUY LOW, BUY LOWER  提交人数1  AC人数1
+Problem ID  1746  Problem Russian Dolls  提交人数1  AC人数1
+Problem ID  1747  Problem Combination Lock  提交人数1  AC人数1
+Problem ID  1748  ProblemBasic remains   提交人数1  AC人数1
+Problem ID  1749  ProblemGenealogical Research  提交人数1  AC人数1
+Problem ID  1750  ProblemTreasure Map  提交人数1  AC人数1
+Problem ID  1751  ProblemCalories from Fat  提交人数1  AC人数1
+Problem ID  1752  ProblemDead Fraction  提交人数1  AC人数1
+Problem ID  1753  ProblemBiometrics  提交人数1  AC人数1
+Problem ID  1754  ProblemXYZZY  提交人数1  AC人数1
+Problem ID  1755  ProblemA Brief Gerrymander  提交人数3  AC人数0
+Problem ID  1756  ProblemArbiter  提交人数5  AC人数0
+Problem ID  1757  ProblemChaeYeon  提交人数1  AC人数1
+Problem ID  1758  ProblemDolphin  提交人数1  AC人数1
+Problem ID  1759  ProblemFreeOpen  提交人数2  AC人数0
+Problem ID  1760  ProblemFreeRadiant  提交人数1  AC人数1
+Problem ID  1761  ProblemGCC  提交人数2  AC人数0
+Problem ID  1762  ProblemMoonmist  提交人数1  AC人数1
+Problem ID  1763  ProblemSlash  提交人数1  AC人数1
+Problem ID  1764  ProblemNova  提交人数3  AC人数0
+Problem ID  1765  ProblemWHUgirls  提交人数2  AC人数0
+Problem ID  1766  ProblemSatellite Photographs  提交人数1  AC人数1
+Problem ID  1767  ProblemPrime Path  提交人数1  AC人数1
+Problem ID  1768  ProblemA Bug  提交人数1  AC人数1
+Problem ID  1769  ProblemMaze Problem  提交人数1  AC人数1
+Problem ID  1770  Problem Intellectual Property  提交人数1  AC人数1
+Problem ID  1771  ProblemPersistent Numbers  提交人数1  AC人数1
+Problem ID  1772  Problem Major Scales  提交人数1  AC人数1
+Problem ID  1773  ProblemDumb Bones  提交人数1  AC人数1
+Problem ID  1774  ProblemGuessing Game  提交人数1  AC人数1
+Problem ID  1775  ProblemTemple of Dune  提交人数2  AC人数1
+Problem ID  1776  ProblemFerry Loading II  提交人数1  AC人数1
+Problem ID  1777  ProblemCatenyms  提交人数1  AC人数1
+Problem ID  1778  ProblemBasic  提交人数1  AC人数1
+Problem ID  1779  ProblemRock, Scissors, Paper  提交人数3  AC人数0
+Problem ID  1780  ProblemHome Work  提交人数3  AC人数1
+Problem ID  1781  ProblemRedraiment的遭遇  提交人数1  AC人数1
+Problem ID  1782  Problem1、2、3、4、5...  提交人数10  AC人数4
+Problem ID  1783  Problem渊子赛马  提交人数1  AC人数1
+Problem ID  1784  ProblemHero In Maze  提交人数1  AC人数1
+Problem ID  1785  ProblemRedraiment猜想  提交人数6  AC人数0
+Problem ID  1786  Problem童年生活二三事  提交人数10  AC人数5
+Problem ID  1787  ProblemUniversity  提交人数2  AC人数1
+Problem ID  1788  Problem目标柏林  提交人数1  AC人数1
+Problem ID  1789  ProblemRails  提交人数1  AC人数1
+Problem ID  1790  ProblemProblem A: Freckles  提交人数1  AC人数1
+Problem ID  1791  ProblemProblem B: Language Cardinality  提交人数1  AC人数1
+Problem ID  1792  ProblemProblem C:  Primary Arithmetic  提交人数1  AC人数1
+Problem ID  1793  ProblemProblem D:  Demerit Points  提交人数1  AC人数1
+Problem ID  1794  ProblemProblem E:  Edit Step Ladders  提交人数1  AC人数1
+Problem ID  1795  Problem Problem A - Y2K Accounting Bug  提交人数1  AC人数1
+Problem ID  1796  ProblemProblem B - Airline Hub  提交人数1  AC人数1
+Problem ID  1797  ProblemProblem C - Snakes  提交人数2  AC人数1
+Problem ID  1798  ProblemProblem D - Snap  提交人数1  AC人数1
+Problem ID  1799  ProblemProblem E - Steps  提交人数1  AC人数1
+Problem ID  1800  ProblemProblem A - No Tipping  提交人数1  AC人数1
+Problem ID  1801  ProblemProblem B - Subway  提交人数1  AC人数1
+Problem ID  1802  ProblemProblem C - Sumsets  提交人数1  AC人数1
+Problem ID  1803  ProblemProblem D - Zipf's Law  提交人数1  AC人数1
+Problem ID  1804  ProblemProblem E - Ones  提交人数1  AC人数1
+Problem ID  1805  ProblemBox of Bricks  提交人数2  AC人数0
+Problem ID  1806  ProblemIMMEDIATE DECODABILITY  提交人数1  AC人数1
+Problem ID  1807  ProblemSTAMPS  提交人数1  AC人数0
+Problem ID  1808  ProblemSimple Arithmetics  提交人数1  AC人数1
+Problem ID  1809  ProblemError Correction  提交人数1  AC人数1
+Problem ID  1810  ProblemA × B problem  提交人数2  AC人数1
+Problem ID  1811  ProblemRedraiment的走法  提交人数1  AC人数1
+Problem ID  1812  ProblemWord Encoding  提交人数1  AC人数1
+Problem ID  1813  ProblemJesse's Code  提交人数8  AC人数7
+Problem ID  1816  Problem有假币  提交人数1  AC人数1
+Problem ID  1817  Problem寄居蟹与海葵  提交人数1  AC人数1
+Problem ID  1818  Problem天仙配  提交人数1  AC人数1
+Problem ID  1819  ProblemProblem A:  Gopher II  提交人数1  AC人数1
+Problem ID  1820  ProblemProblem B: Tight words  提交人数1  AC人数1
+Problem ID  1821  ProblemProblem C:  WERTYU  提交人数1  AC人数1
+Problem ID  1822  ProblemProblem D:  Division  提交人数1  AC人数1
+Problem ID  1823  ProblemProblem E:  Hotter Colder  提交人数1  AC人数1
+Problem ID  1824  ProblemProblem A:  Average Speed  提交人数1  AC人数1
+Problem ID  1825  ProblemProblem B:  Subway  提交人数1  AC人数1
+Problem ID  1826  ProblemProblem C: Babelfish  提交人数1  AC人数1
+Problem ID  1827  ProblemProblem D: Bounding box  提交人数1  AC人数1
+Problem ID  1828  ProblemProblem E: A multiplication game   提交人数1  AC人数1
+Problem ID  1829  Problem Tango Tango Insurrection  提交人数1  AC人数1
+Problem ID  1830  ProblemAdvanced Causal Measurements (ACM)   提交人数1  AC人数1
+Problem ID  1831  ProblemA flea on a chessboard  提交人数1  AC人数1
+Problem ID  1832  ProblemJack and Jill  提交人数1  AC人数1
+Problem ID  1833  Problem Perfect Pth Powers  提交人数4  AC人数2
+Problem ID  1834  ProblemProblem A: Trains  提交人数1  AC人数1
+Problem ID  1835  ProblemProblem B:  Tic Tac Toe  提交人数1  AC人数1
+Problem ID  1836  ProblemProblem C:  Square  提交人数1  AC人数1
+Problem ID  1837  ProblemProblem D: Blocks  提交人数1  AC人数1
+Problem ID  1838  ProblemProblem E: Faucet Flow  提交人数1  AC人数1
+Problem ID  1839  ProblemEquations  提交人数1  AC人数1
+Problem ID  1840  ProblemEuclid's Game  提交人数1  AC人数1
+Problem ID  1841  ProblemArctic Network  提交人数1  AC人数1
+Problem ID  1842  ProblemAbove Average  提交人数1  AC人数1
+Problem ID  1843  ProblemTime Zones  提交人数1  AC人数1
+Problem ID  1844  ProblemMap  提交人数1  AC人数1
+Problem ID  1845  ProblemAnts  提交人数6  AC人数3
+Problem ID  1846  ProblemCat  提交人数1  AC人数1
+Problem ID  1847  Problem Evil Straw Warts Live  提交人数2  AC人数2
+Problem ID  1848  ProblemMint  提交人数1  AC人数1
+Problem ID  1849  ProblemExpanding Rods  提交人数1  AC人数1
+Problem ID  1850  ProblemThree powers  提交人数1  AC人数1
+Problem ID  1851  ProblemWork Reduction  提交人数1  AC人数1
+Problem ID  1852  ProblemGrid Speed  提交人数1  AC人数1
+Problem ID  1853  ProblemMarbles on a tree  提交人数1  AC人数1
+Problem ID  1854  ProblemUnequalled Consumption  提交人数1  AC人数0
+Problem ID  1855  ProblemDeclaration of Content  提交人数1  AC人数0
+Problem ID  1856  ProblemLaserbox  提交人数1  AC人数1
+Problem ID  1857  ProblemBowlstack  提交人数1  AC人数0
+Problem ID  1858  ProblemPesky Heroes  提交人数1  AC人数0
+Problem ID  1859  ProblemReduced ID Numbers  提交人数1  AC人数1
+Problem ID  1860  ProblemTantrix  提交人数1  AC人数0
+Problem ID  1861  ProblemGuardian of Decency  提交人数1  AC人数1
+Problem ID  1862  ProblemUp the Stairs  提交人数1  AC人数0
+Problem ID  1863  ProblemSudoku  提交人数1  AC人数1
+Problem ID  1864  ProblemShoot-out  提交人数1  AC人数0
+Problem ID  1865  ProblemTour Guide  提交人数1  AC人数0
+Problem ID  1866  ProblemCard Trick  提交人数1  AC人数1
+Problem ID  1867  ProblemNecklace Decomposition  提交人数1  AC人数1
+Problem ID  1868  ProblemCrashing Robots  提交人数1  AC人数1
+Problem ID  1869  ProblemElectrical Outlets  提交人数1  AC人数1
+Problem ID  1870  ProblemWatchdog  提交人数1  AC人数1
+Problem ID  1871  ProblemTaxi Cab Scheme  提交人数1  AC人数0
+Problem ID  1872  ProblemPseudo-random Numbers  提交人数1  AC人数0
+Problem ID  1873  ProblemCard Game Cheater  提交人数1  AC人数1
+Problem ID  1874  ProblemInvestment  提交人数1  AC人数1
+Problem ID  1875  ProblemPipes  提交人数1  AC人数0
+Problem ID  1876  ProblemSETI  提交人数1  AC人数1
+Problem ID  1877  ProblemMinimax Triangulation  提交人数1  AC人数0
+Problem ID  1878  ProblemProblem A:  Bridge  提交人数1  AC人数1
+Problem ID  1879  ProblemProblem B: Saskatchewan  提交人数1  AC人数1
+Problem ID  1880  ProblemProblem C:  Jolly Jumpers  提交人数1  AC人数1
+Problem ID  1881  ProblemProblem D:  Tug of War  提交人数1  AC人数1
+Problem ID  1882  ProblemProblem E:  Interpreter  提交人数1  AC人数1
+Problem ID  1884  Problem用筛法求之N内的素数。 
+  提交人数6  AC人数6
+Problem ID  1895  ProblemThe 3n + 1 problem   提交人数3  AC人数1
+Problem ID  1896  ProblemMinesweeper   提交人数1  AC人数1
+Problem ID  1897  Problem蛇行矩阵  提交人数10  AC人数4
+Problem ID  1898  ProblemDinner  提交人数8  AC人数4
+Problem ID  1899  ProblemYou are my brother  提交人数1  AC人数1
+Problem ID  1901  ProblemSPY  提交人数1  AC人数0
+Problem ID  1902  ProblemIntermediary  提交人数1  AC人数1
+Problem ID  1903  ProblemEnglish Game  提交人数5  AC人数0
+Problem ID  1904  ProblemFriends number  提交人数1  AC人数1
+Problem ID  1905  ProblemHappiness Hotel  提交人数1  AC人数1
+Problem ID  1906  ProblemNEW RDSP MODE I  提交人数1  AC人数1
+Problem ID  1907  ProblemProblem A: Adventures in Moving - Part IV  提交人数1  AC人数1
+Problem ID  1908  ProblemProblem B: Pairsumonious Numbers   提交人数1  AC人数1
+Problem ID  1909  ProblemProblem C:  Snow Clearing  提交人数1  AC人数1
+Problem ID  1910  ProblemProblem D:  Adventures in Moving - Part V  提交人数2  AC人数1
+Problem ID  1911  ProblemProblem E:  Stack 'em Up  提交人数2  AC人数1
+Problem ID  1912  ProblemThe Game of 31  提交人数0  AC人数0
+Problem ID  1913  ProblemFactoring Large Numbers  提交人数0  AC人数0
+Problem ID  1914  ProblemFibonacci Numbers  提交人数2  AC人数0
+Problem ID  1915  ProblemCompound Words  提交人数0  AC人数0
+Problem ID  1916  ProblemNew Horizons  提交人数0  AC人数0
+Problem ID  1917  ProblemA MST Problem  提交人数4  AC人数4
+Problem ID  1918  ProblemBorder   提交人数1  AC人数1
+Problem ID  1920  ProblemDiamond   提交人数1  AC人数1
+Problem ID  1921  ProblemEasy List Operations  提交人数6  AC人数3
+Problem ID  1922  ProblemFortun e Test  提交人数1  AC人数1
+Problem ID  1923  ProblemGive me the answer  提交人数1  AC人数1
+Problem ID  1924  ProblemHidden Number  提交人数1  AC人数1
+Problem ID  1925  ProblemI think it's hard  提交人数1  AC人数0
+Problem ID  1926  ProblemJust Pour the Water  提交人数1  AC人数1
+Problem ID  1927  ProblemPrime  提交人数6  AC人数0
+Problem ID  1928  ProblemPhone Number  提交人数3  AC人数0
+Problem ID  1929  ProblemBalloons  提交人数38  AC人数20
+Problem ID  1930  ProblemClockwise  提交人数11  AC人数0
+Problem ID  1931  ProblemShopping  提交人数1  AC人数1
+Problem ID  1932  ProblemEmergency  提交人数73  AC人数10
+Problem ID  1933  ProblemFairy tale  提交人数2  AC人数1
+Problem ID  1934  ProblemGreatest Number  提交人数96  AC人数25
+Problem ID  1935  ProblemIvan comes again!  提交人数5  AC人数0
+Problem ID  1945  Problem俄罗斯方块覆盖  提交人数111  AC人数2
+Problem ID  1946  ProblemA+B  提交人数9  AC人数9
+Problem ID  1947  ProblemSum  提交人数11  AC人数3
+Problem ID  1948  ProblemA.做一个正气的石大人  提交人数9  AC人数5
+Problem ID  1949  ProblemB.Cup  提交人数10  AC人数0
+Problem ID  1950  ProblemC.Mine-Sweeping  提交人数28  AC人数16
+Problem ID  1951  ProblemD.Maximum area  提交人数24  AC人数9
+Problem ID  1954  ProblemG.Board  提交人数98  AC人数12
+Problem ID  1955  ProblemH.QingDao Subway  提交人数29  AC人数7
+Problem ID  1957  Problem共同好友  提交人数39  AC人数17
+Problem ID  1958  Problem连连看  提交人数33  AC人数7
+Problem ID  1959  Problem班长和团支书  提交人数10  AC人数4
+Problem ID  1960  Problem遗憾的比赛  提交人数8  AC人数3
+Problem ID  1961  Problem真假特务  提交人数7  AC人数1
+Problem ID  1962  Problem糖果  提交人数4  AC人数1
+Problem ID  1963  Problem二进制串  提交人数2  AC人数0
+Problem ID  1965  Problem跳舞毯  提交人数1  AC人数1
+Problem ID  1966  ProblemRP Test  提交人数16  AC人数1
+Problem ID  1967  ProblemA  提交人数43  AC人数0
+Problem ID  1968  Problem再谈A+B  提交人数30  AC人数3
+Problem ID  1969  Problem字符串  提交人数42  AC人数17
+Problem ID  1970  Problem立方体  提交人数1  AC人数0
+Problem ID  1971  Problemproblem B  提交人数16  AC人数1
+Problem ID  1972  Problemproblem C  提交人数28  AC人数17
+Problem ID  1973  Problemproblem E  提交人数43  AC人数6
+Problem ID  1974  Problemproblem G  提交人数34  AC人数15
+Problem ID  1975  Problemproblem H  提交人数36  AC人数5
+Problem ID  1976  Problemproblem F  提交人数79  AC人数18
+Problem ID  1977  Problem最小的子段和  提交人数49  AC人数21
+Problem ID  1978  ProblemA == B ?  提交人数281  AC人数231
+Problem ID  1979  Problem做家教的苦恼  提交人数2  AC人数2
+Problem ID  1980  Problemprime?  提交人数6  AC人数5
+Problem ID  1981  Problem算法部纳新啦  提交人数7  AC人数5
+Problem ID  1982  Problem97拳皇  提交人数2  AC人数1
+Problem ID  1983  Problem再次斐波那契数  提交人数12  AC人数0
+Problem ID  1985  Problem小K的光棍节  提交人数1  AC人数1
+Problem ID  1986  Problem我只要一位数字  提交人数1502  AC人数62
+Problem ID  1987  Problem美妙的对称  提交人数1  AC人数1
+Problem ID  1988  Problem我的地盘我做主  提交人数25  AC人数8
+Problem ID  1989  Problem生产流水线  提交人数31  AC人数9
+Problem ID  1990  ProblemDOTA  提交人数20  AC人数10
+Problem ID  1991  Problem拯救战  提交人数12  AC人数6
+Problem ID  1992  Problem小K的单身舞会  提交人数12  AC人数3
+Problem ID  1993  Problem竖排文字  提交人数84  AC人数31
+Problem ID  1994  Problem排队  提交人数1  AC人数1
+Problem ID  1995  Problem涂鸦的艺术  提交人数2  AC人数2
+Problem ID  1996  Problem到底有多远  提交人数202  AC人数38
+Problem ID  1997  Problem聪明的猴子  提交人数289  AC人数199
+Problem ID  2000  Problem盖房子  提交人数308  AC人数269
+Problem ID  2004  Problem	装修房子  提交人数8  AC人数3
+Problem ID  2007  ProblemBaidu的提醒  提交人数3  AC人数0
+Problem ID  2008  Problemsmallfish的困惑  提交人数37  AC人数9
+Problem ID  2009  Problem监狱长  提交人数13  AC人数6
+Problem ID  2011  Problem天朝的司机  提交人数48  AC人数9
+Problem ID  2012  Problem22222222222222222  提交人数126  AC人数17
+Problem ID  2013  Problem汽水瓶  提交人数306  AC人数173
+Problem ID  2014  Problem弟弟的作业  提交人数17  AC人数4
+Problem ID  2015  Problem数字整除  提交人数9  AC人数1
+Problem ID  2016  Problem台球碰撞  提交人数3  AC人数2
+Problem ID  2017  Problem内部收益率  提交人数1  AC人数1
+Problem ID  2018  ProblemBiggest Number  提交人数3  AC人数0
+Problem ID  2019  ProblemRepairing a Road  提交人数1  AC人数1
+Problem ID  2020  Problem射击游戏  提交人数1  AC人数1
+Problem ID  2021  Problem战场的数目  提交人数2  AC人数1
+Problem ID  2022  ProblemInfinite Dictionaries  提交人数1  AC人数1
+Problem ID  2023  ProblemTetrahedrons and Spheres  提交人数1  AC人数1
+Problem ID  2024  ProblemBrt  提交人数6  AC人数0
+Problem ID  2025  Problem稳定婚姻  提交人数8  AC人数2
+Problem ID  2026  Problem悄悄话  提交人数17  AC人数4
+Problem ID  2027  Problem公平  提交人数25  AC人数10
+Problem ID  2028  Problem食物  提交人数17  AC人数0
+Problem ID  2029  Problem游戏  提交人数32  AC人数4
+Problem ID  2030  Problem排列lcs  提交人数3  AC人数2
+Problem ID  2031  ProblemMorenan vs Zombie  提交人数0  AC人数0
+Problem ID  2032  Problem指令网络  提交人数2  AC人数0
+Problem ID  2033  Problem一发入魂  提交人数2  AC人数1
+Problem ID  2034  ProblemA + B Problem  提交人数4  AC人数4
+Problem ID  2036  ProblemCount It!  提交人数4  AC人数3
+Problem ID  2039  ProblemMagnolia Dining-Hall  提交人数34  AC人数11
+Problem ID  2042  ProblemGCD and LCM  提交人数1  AC人数1
+Problem ID  2044  Problem蛇形矩阵2  提交人数140  AC人数27
+Problem ID  2047  ProblemA Famous Music Composer  提交人数1  AC人数1
+Problem ID  2048  ProblemA Famous Airport Manager  提交人数1  AC人数1
+Problem ID  2049  ProblemA Famous ICPC Team  提交人数1  AC人数1
+Problem ID  2050  ProblemA Famous Stone Collector  提交人数3  AC人数0
+Problem ID  2051  ProblemA Famous Equation  提交人数2  AC人数0
+Problem ID  2052  ProblemA Famous King’s Trip  提交人数8  AC人数1
+Problem ID  2053  ProblemThe Famous ICPC Team Again  提交人数1  AC人数0
+Problem ID  2054  ProblemA Famous City  提交人数2  AC人数1
+Problem ID  2055  ProblemTwo Famous Companies  提交人数1  AC人数0
+Problem ID  2056  ProblemA Famous Game  提交人数4  AC人数1
+Problem ID  2057  ProblemA Famous Grid  提交人数2  AC人数0
+Problem ID  2058  ProblemThe Famous Clock  提交人数2  AC人数1
+Problem ID  2059  ProblemMarble Madness  提交人数8  AC人数6
+Problem ID  2060  ProblemThe competition between dog and men  提交人数1  AC人数1
+Problem ID  2061  ProblemWilson’s Tables  提交人数1  AC人数1
+Problem ID  2063  Problem帮帮巴神  提交人数110  AC人数10
+Problem ID  2064  Problem帮帮蓝仙子  提交人数96  AC人数30
+Problem ID  2065  Problem那些年，我们一起求过的ax^3 + bx >= 0  提交人数154  AC人数36
+Problem ID  2066  Problem末日的Display  提交人数39  AC人数7
+Problem ID  2067  Problem青年DXH  提交人数3  AC人数0
+Problem ID  2068  Problem字符串匹配  提交人数9  AC人数0
+Problem ID  2069  ProblemAs survive  提交人数1  AC人数1
+Problem ID  2070  ProblemBalls  提交人数2  AC人数1
+Problem ID  2071  ProblemCounting problem  提交人数1  AC人数1
+Problem ID  2072  ProblemDecrypt-password  提交人数1  AC人数1
+Problem ID  2073  ProblemExpectation  提交人数1  AC人数1
+Problem ID  2074  ProblemFind the pair  提交人数3  AC人数1
+Problem ID  2077  Problem Increasing subsequence  提交人数1  AC人数1
+Problem ID  2078  ProblemJiajia’s gift  提交人数1  AC人数1
+Problem ID  2079  Problem盐荒子孙  提交人数56  AC人数24
+Problem ID  2080  Problem盐荒子孙2  提交人数2  AC人数0
+Problem ID  2081  Problem数据结构-图的邻接矩阵表示  提交人数0  AC人数0
+Problem ID  2082  Problem数据结构-图的邻接表表示  提交人数0  AC人数0
+Problem ID  2083  Problem怪脾气的评测系统  提交人数1  AC人数0
+Problem ID  2084  Problem编译与运行时错误  提交人数0  AC人数0
+Problem ID  2085  Problem超时超存超输出  提交人数0  AC人数0
+Problem ID  2086  ProblemQuadratic Sum  提交人数2  AC人数2
+Problem ID  2087  ProblemManhattan  提交人数2  AC人数2
+Problem ID  2088  ProblemUnlosing Ranger V.S. Darkdeath Evilman  提交人数36  AC人数0
+Problem ID  2089  ProblemPalindrome  提交人数4  AC人数0
+Problem ID  2090  ProblemDivisibility  提交人数2  AC人数2
+Problem ID  2091  ProblemGreedy Snake  提交人数25  AC人数0
+Problem ID  2092  ProblemSimple Tetris  提交人数13  AC人数0
+Problem ID  2093  ProblemRolling  提交人数0  AC人数0
+Problem ID  2094  ProblemMinimal Elements   提交人数16  AC人数5
+Problem ID  2095  ProblemAnt  提交人数41  AC人数8
+Problem ID  2096  ProblemLexicographically Largest Substring  提交人数2  AC人数2
+Problem ID  2097  Problem词组缩写  提交人数1  AC人数1
+Problem ID  2098  Problem18岁  提交人数1  AC人数1
+Problem ID  2099  ProblemHDB3码  提交人数1  AC人数0
+Problem ID  2100  Problem反射  提交人数5  AC人数2
+Problem ID  2101  Problem求日龄  提交人数1  AC人数0
+Problem ID  2103  Problem笨鸟先飞  提交人数14  AC人数2
+Problem ID  2104  Problem关系推断  提交人数1  AC人数1
+Problem ID  2105  Problem时钟  提交人数4  AC人数2
+Problem ID  2106  Problem统计方案  提交人数6  AC人数4
+Problem ID  2107  ProblemAn Easy Problem  提交人数69  AC人数11
+Problem ID  2108  ProblemFootball  提交人数1  AC人数1
+Problem ID  2109  ProblemClear Them  提交人数1  AC人数1
+Problem ID  2110  ProblemBallot Evaluation  提交人数15  AC人数3
+Problem ID  2112  ProblemInner Product  提交人数0  AC人数0
+Problem ID  2113  ProblemBox  提交人数1  AC人数1
+Problem ID  2114  ProblemKoch Snowflake  提交人数0  AC人数0
+Problem ID  2115  ProblemBest Score  提交人数0  AC人数0
+Problem ID  2116  ProblemBulb  提交人数0  AC人数0
+Problem ID  2118  ProblemLempel–Ziv–Welch  提交人数0  AC人数0
+Problem ID  2127  ProblemBoys and Girls  提交人数48  AC人数6
+Problem ID  2129  ProblemDivide Tree  提交人数44  AC人数15
+Problem ID  2130  ProblemEspecial 0-1 String  提交人数25  AC人数4
+Problem ID  2131  ProblemFake Problem  提交人数2  AC人数1
+Problem ID  2132  ProblemGift  提交人数108  AC人数21
+Problem ID  2133  Problem拯救公主  提交人数3  AC人数0
+Problem ID  2134  ProblemIdentify the text  提交人数5  AC人数4
+Problem ID  2135  ProblemJUMP  提交人数1  AC人数0
+Problem ID  2136  ProblemThe war of 3Q.  提交人数85  AC人数15
+Problem ID  2137  Problem数格子  提交人数26  AC人数9
+Problem ID  2138  ProblemDxh 的童年  提交人数13  AC人数6
+Problem ID  2139  ProblemFinal Standing  提交人数10  AC人数7
+Problem ID  2140  Problem反恐精英  提交人数9  AC人数4
+Problem ID  2141  Problem狡兔N窟  提交人数8  AC人数2
+Problem ID  2142  Problem4-3-3  提交人数1  AC人数1
+Problem ID  2143  Problem军训  提交人数3  AC人数1
+Problem ID  2144  Problem求和  提交人数18  AC人数0
+Problem ID  2146  Problem一字棋  提交人数5  AC人数2
+Problem ID  2147  Problem少年DXH  提交人数5  AC人数3
+Problem ID  2148  Problem巡回赛  提交人数1  AC人数1
+Problem ID  2149  Problem子节点计数  提交人数2  AC人数1
+Problem ID  2150  Problem迷宫  提交人数2  AC人数2
+Problem ID  2151  Problem一字棋  提交人数1  AC人数0
+Problem ID  2152  Problem点的变换  提交人数4  AC人数0
+Problem ID  2153  Problem分糖果  提交人数3  AC人数1
+Problem ID  2154  Problem筹建工程  提交人数11  AC人数3
+Problem ID  2155  Problem贝贝的交通指挥系统  提交人数1  AC人数0
+Problem ID  2157  ProblemCompression  提交人数102  AC人数70
+Problem ID  2158  ProblemNimper!  提交人数31  AC人数4
+Problem ID  2159  ProblemJangalestan  提交人数92  AC人数46
+Problem ID  2160  ProblemPrime Numbers…Again!  提交人数123  AC人数60
+Problem ID  2161  ProblemWord maker!  提交人数114  AC人数24
+Problem ID  2162  ProblemWeird Coloring  提交人数24  AC人数1
+Problem ID  2163  ProblemTrundling Object  提交人数26  AC人数4
+Problem ID  2164  ProblemRemainder Calculator  提交人数134  AC人数23
+Problem ID  2165  ProblemNumber Convertor  提交人数103  AC人数26
+Problem ID  2166  ProblemEvolution  提交人数1  AC人数1
+Problem ID  2167  ProblemB Have a Nice Day  提交人数158  AC人数46
+Problem ID  2169  ProblemC      Serial Numbers   提交人数125  AC人数31
+Problem ID  2170  ProblemD      Equal Is Not Really Equal   提交人数46  AC人数5
+Problem ID  2171  ProblemE      The Great Cleanup   提交人数43  AC人数13
+Problem ID  2172  ProblemF      Stock Market   提交人数125  AC人数63
+Problem ID  2173  ProblemH      Farmer John  提交人数55  AC人数16
+Problem ID  2174  ProblemI     Imagine   提交人数53  AC人数20
+Problem ID  2175  ProblemG      Acrobat Reader   提交人数24  AC人数8
+Problem ID  2176  ProblemJ      My Cousin Obama  提交人数22  AC人数10
+Problem ID  2177  Problem贝贝的图形  提交人数28  AC人数11
+Problem ID  2183  Problem贝贝的保险库密码  提交人数5  AC人数5
+Problem ID  2186  Problem贝贝的数学课  提交人数13  AC人数4
+Problem ID  2187  ProblemEqual Sum Partitions  提交人数143  AC人数25
+Problem ID  2188  ProblemBalls  提交人数25  AC人数16
+Problem ID  2190  ProblemAdjacent Bit Counts  提交人数31  AC人数29
+Problem ID  2193  ProblemPainted Cube  提交人数7  AC人数2
+Problem ID  2194  ProblemSeating Chart  提交人数47  AC人数15
+Problem ID  2195  ProblemTemple Build  提交人数19  AC人数10
+Problem ID  2196  ProblemImpasse (+)  提交人数0  AC人数0
+Problem ID  2197  ProblemPick apples  提交人数1  AC人数1
+Problem ID  2198  ProblemThe Best Seat in ACM Contest  提交人数1  AC人数1
+Problem ID  2199  ProblemMine Number  提交人数2  AC人数1
+Problem ID  2201  ProblemFruit Ninja I  提交人数1  AC人数0
+Problem ID  2203  ProblemAn interesting game  提交人数13  AC人数2
+Problem ID  2204  ProblemChess  提交人数10  AC人数7
+Problem ID  2205  ProblemFruit Ninja II  提交人数12  AC人数7
+Problem ID  2206  Problemwodegecale  提交人数5  AC人数3
+Problem ID  2208  Problem B. 修路   提交人数2  AC人数1
+Problem ID  2209  ProblemC. 可爱的小蚂蚱   提交人数3  AC人数1
+Problem ID  2210  ProblemD. ORZ  提交人数1  AC人数1
+Problem ID  2211  ProblemE. 漏洞修复   提交人数7  AC人数2
+Problem ID  2213  ProblemG. Windwalker   提交人数1  AC人数1
+Problem ID  2214  ProblemH. Solo比赛  提交人数9  AC人数3
+Problem ID  2215  ProblemI. 电梯规划  提交人数2  AC人数1
+Problem ID  2216  ProblemJ. Piggy的作业  提交人数4  AC人数2
+Problem ID  2218  ProblemThrall’s Dream  提交人数2  AC人数0
+Problem ID  2219  ProblemA^X mod P  提交人数2  AC人数0
+Problem ID  2220  ProblemRubik’s cube  提交人数47  AC人数24
+Problem ID  2221  ProblemMountain Subsequences  提交人数3  AC人数0
+Problem ID  2222  ProblemAlice and Bob  提交人数1  AC人数1
+Problem ID  2223  ProblemA-Number and B-Number  提交人数1  AC人数1
+Problem ID  2224  ProblemBoring Counting  提交人数2  AC人数0
+Problem ID  2225  ProblemThe number of steps  提交人数2  AC人数2
+Problem ID  2226  ProblemContest Print Server  提交人数1  AC人数1
+Problem ID  2238  Problem贝贝的ISBN号码(isbn)  提交人数2  AC人数1
+Problem ID  2239  Problem手机（MOBILE）  提交人数2  AC人数2
+Problem ID  2240  Problem不明飞行物(ufo)  提交人数2  AC人数1
+Problem ID  2241  Problem贝贝的加密工作  提交人数2  AC人数1
+Problem ID  2243  Problem单词游戏(game)  提交人数1  AC人数1
+Problem ID  2244  Problem密室寻宝(find)  提交人数3  AC人数0
+Problem ID  2245  Problem贝贝的波浪数（num）  提交人数1  AC人数0
+Problem ID  2246  Problem斜二进制数(shu)  提交人数4  AC人数0
+Problem ID  2247  Problem茶道(tea)  提交人数6  AC人数0
+Problem ID  2248  Problem贝贝与外星人  提交人数6  AC人数6
+Problem ID  2249  Problem保密员(baomi)  提交人数2  AC人数2
+Problem ID  2250  Problem动物简介(animal)  提交人数8  AC人数2
+Problem ID  2251  Problem海岛寻宝  提交人数1  AC人数0
+Problem ID  2252  Problem乒乓球（Table）  提交人数3  AC人数1
+Problem ID  2253  Problem编码(decode)  提交人数31  AC人数12
+Problem ID  2255  Problem桐桐的计算  提交人数6  AC人数1
+Problem ID  2256  Problem桐桐去购物(ji)  提交人数7  AC人数0
+Problem ID  2257  Problem打印算式(suanshi)  提交人数1  AC人数1
+Problem ID  2258  ProblemISBN码(isbn)  提交人数1  AC人数0
+Problem ID  2259  Problem格子位置(grid)  提交人数34  AC人数14
+Problem ID  2260  Problem勾股数(gou)  提交人数2  AC人数1
+Problem ID  2261  Problem桐桐的数学难题  提交人数65  AC人数18
+Problem ID  2262  Problem因子个数(dcount)  提交人数8  AC人数0
+Problem ID  2263  Problemk个数乘(cheng)  提交人数0  AC人数0
+Problem ID  2264  Problem因子游戏(factor)  提交人数0  AC人数0
+Problem ID  2265  Problem素数的秘密  提交人数2  AC人数0
+Problem ID  2266  Problem找数游戏(find)  提交人数4  AC人数1
+Problem ID  2267  Problem“桐桐数”(number)  提交人数43  AC人数11
+Problem ID  2269  Problem数字和(sum)  提交人数0  AC人数0
+Problem ID  2270  Problem桐桐的思考  提交人数1  AC人数0
+Problem ID  2271  Problem孪生素数(rsss)  提交人数0  AC人数0
+Problem ID  2273  Problem桐桐的猜想(math)  提交人数0  AC人数0
+Problem ID  2274  Problem统计素数(pcount)  提交人数18  AC人数1
+Problem ID  2275  Problem桐桐的研究  提交人数5  AC人数3
+Problem ID  2276  Problem桐桐的深入研究(nggb)  提交人数0  AC人数0
+Problem ID  2277  Problem桐桐的游戏(game)  提交人数1  AC人数1
+Problem ID  2278  Problem分数计算器(jsq)  提交人数1  AC人数1
+Problem ID  2279  Problem桐桐的砝码  提交人数12  AC人数5
+Problem ID  2280  Problem砝码称重(fama)  提交人数1  AC人数1
+Problem ID  2281  Problem求组合数(zuhe)  提交人数3  AC人数2
+Problem ID  2282  Problem城市路站(city)  提交人数0  AC人数0
+Problem ID  2283  Problem桐桐的发现(work)  提交人数11  AC人数0
+Problem ID  2285  Problem阶乘问题(fact)  提交人数50  AC人数11
+Problem ID  2286  Problem聊斋(storys)  提交人数28  AC人数5
+Problem ID  2287  Problem众数(masses)  提交人数1  AC人数0
+Problem ID  2288  Problem第k小整数(knumber)  提交人数57  AC人数1
+Problem ID  2289  Problem考试排名――插入排序  提交人数3  AC人数2
+Problem ID  2290  Problem排名(sort)  提交人数2  AC人数1
+Problem ID  2291  Problem队形排列(queue)  提交人数2  AC人数0
+Problem ID  2292  Problem考试排名――选择排序  提交人数7  AC人数4
+Problem ID  2293  Problem近似排序(sort)  提交人数3  AC人数1
+Problem ID  2294  Problem找中间数(midnum)  提交人数2  AC人数0
+Problem ID  2295  Problem奖学金(scholar)  提交人数1  AC人数1
+Problem ID  2296  Problem辣椒炸弹(bomb)  提交人数2  AC人数0
+Problem ID  2297  Problem水王争霸(water)  提交人数1  AC人数0
+Problem ID  2298  Problem统计数字――快速排序  提交人数3  AC人数0
+Problem ID  2299  Problem中位数  提交人数4  AC人数0
+Problem ID  2300  Problem军事机密(secret)  提交人数14  AC人数2
+Problem ID  2301  Problem分数线划定(score)  提交人数1  AC人数1
+Problem ID  2302  Problem统计分数  提交人数3  AC人数0
+Problem ID  2303  Problem合并果子(fruit)  提交人数1  AC人数0
+Problem ID  2304  Problem琦琦的艺术照片(mphoto)  提交人数29  AC人数4
+Problem ID  2306  Problem谁会赢？(98m)  提交人数11  AC人数4
+Problem ID  2307  Problem奶牛的编号（privc）  提交人数6  AC人数2
+Problem ID  2308  Problem加法天才  提交人数1  AC人数0
+Problem ID  2309  Problem蜜蜂路线(bee)  提交人数1  AC人数1
+Problem ID  2310  Problem义务植树(tree)  提交人数11  AC人数4
+Problem ID  2311  Problem减法神童  提交人数24  AC人数6
+Problem ID  2312  ProblemOliver的成绩(score)  提交人数7  AC人数0
+Problem ID  2313  Problem密码(password)  提交人数5  AC人数2
+Problem ID  2316  Problem阶乘和(sum)  提交人数7  AC人数0
+Problem ID  2317  Problem超级计算器  提交人数1  AC人数0
+Problem ID  2318  Problem采购员的烦恼(buying)  提交人数2  AC人数0
+Problem ID  2319  Problem幸运之门(goodluck)  提交人数4  AC人数2
+Problem ID  2320  Problem取糖果(candy)  提交人数5  AC人数0
+Problem ID  2321  Problem幂运算(exp)  提交人数0  AC人数0
+Problem ID  2322  Problem删数问题  提交人数15  AC人数4
+Problem ID  2323  Problem小数背包问题(beibao)  提交人数7  AC人数3
+Problem ID  2324  Problem砍树(stump)  提交人数19  AC人数8
+Problem ID  2325  Problem取数游戏  提交人数2  AC人数1
+Problem ID  2326  Problem零件分组(stick)  提交人数22  AC人数4
+Problem ID  2327  ProblemIQ(iq)  提交人数21  AC人数7
+Problem ID  2328  Problem排座椅（seat）  提交人数7  AC人数0
+Problem ID  2329  Problem均分纸牌  提交人数3  AC人数3
+Problem ID  2330  Problem货物搬运(move)  提交人数3  AC人数0
+Problem ID  2331  Problem硬币交换(coin)  提交人数2  AC人数2
+Problem ID  2332  Problem排队打水  提交人数1  AC人数0
+Problem ID  2333  Problem排队打水2(water2)  提交人数8  AC人数6
+Problem ID  2334  Problem客户调查(client)  提交人数1  AC人数1
+Problem ID  2335  Problem智力大冲浪(riddle)  提交人数2  AC人数1
+Problem ID  2336  Problem词链(link)  提交人数4  AC人数1
+Problem ID  2337  Problem最大乘积(maxmul)  提交人数18  AC人数5
+Problem ID  2338  Problem未出现的子串(unapeared)  提交人数2  AC人数1
+Problem ID  2339  Problem加工生产调度(prod)  提交人数14  AC人数5
+Problem ID  2340  Problem猴子摘桃  提交人数2  AC人数1
+Problem ID  2342  Problem九连环(ring)  提交人数25  AC人数12
+Problem ID  2343  Problem2的幂次方(power)  提交人数5  AC人数0
+Problem ID  2344  Problem攀天梯  提交人数95  AC人数17
+Problem ID  2345  Problem递归函数(reduce)  提交人数46  AC人数14
+Problem ID  2346  Problem滑雪(ski)  提交人数1  AC人数1
+Problem ID  2347  Problem乐乐的棋盘(move)  提交人数46  AC人数7
+Problem ID  2348  Problem数的计数(number)  提交人数0  AC人数0
+Problem ID  2349  Problem骑士游历问题(knight)  提交人数60  AC人数12
+Problem ID  2350  Problem分式（fenshi）  提交人数0  AC人数0
+Problem ID  2351  Problem兔子繁殖（rabbit）  提交人数4  AC人数0
+Problem ID  2352  Problem帕斯卡的旅行(tour)  提交人数28  AC人数7
+Problem ID  2353  Problem棋子移动(chess)  提交人数4  AC人数3
+Problem ID  2354  ProblemHanoi双塔问题(hanoi)  提交人数1  AC人数0
+Problem ID  2356  Problem桐桐的数学游戏(mathgame)  提交人数2  AC人数1
+Problem ID  2357  Problem桐桐的组合(compage)  提交人数0  AC人数0
+Problem ID  2358  Problem字符序列(characts)  提交人数1  AC人数1
+Problem ID  2359  Problem生成字符串(strs)  提交人数16  AC人数5
+Problem ID  2360  Problem集合(longer)  提交人数3  AC人数1
+Problem ID  2361  Problem桐桐的运输方案  提交人数4  AC人数0
+Problem ID  2362  Problem售货员的烦恼(trouble)  提交人数9  AC人数6
+Problem ID  2363  Problem装箱问题(box)  提交人数1  AC人数1
+Problem ID  2364  Problem自然数的拆分问题(word)  提交人数0  AC人数0
+Problem ID  2365  Problem和为零(zero)  提交人数1  AC人数1
+Problem ID  2366  Problem神秘数列(line)  提交人数0  AC人数0
+Problem ID  2367  Problem面积计算――深度搜索  提交人数2  AC人数2
+Problem ID  2368  Problem泡泡龙(pop)  提交人数20  AC人数9
+Problem ID  2369  Problem最大平台(maxs)  提交人数9  AC人数4
+Problem ID  2370  Problem保卫农场(guard)  提交人数0  AC人数0
+Problem ID  2371  Problem卫星照片(satel)  提交人数6  AC人数5
+Problem ID  2372  Problem连通块(blocks)  提交人数77  AC人数11
+Problem ID  2373  Problem字母游戏(letters)  提交人数22  AC人数2
+Problem ID  2374  Problem面积计算――宽度搜索  提交人数10  AC人数1
+Problem ID  2375  Problem细胞(cell)  提交人数1  AC人数1
+Problem ID  2376  Problem救援行动(save)  提交人数1  AC人数1
+Problem ID  2377  Problem魔兽世界(way)  提交人数6  AC人数0
+Problem ID  2378  Problem穿越泥地(mud)  提交人数0  AC人数0
+Problem ID  2379  Problem骑士问题(knight)  提交人数0  AC人数0
+Problem ID  2380  Problem奇怪的电梯  提交人数2  AC人数1
+Problem ID  2381  Problem母亲的牛奶(milk)  提交人数0  AC人数0
+Problem ID  2382  Problem单词接龙(dragon)  提交人数0  AC人数0
+Problem ID  2383  Problem素数路(prime)  提交人数1  AC人数1
+Problem ID  2384  Problem数字交换游戏(swap)  提交人数0  AC人数0
+Problem ID  2385  Problem基因(order)  提交人数0  AC人数0
+Problem ID  2386  Problem细菌(disease)  提交人数0  AC人数0
+Problem ID  2387  Problem超级素数(sprime)  提交人数0  AC人数0
+Problem ID  2388  Problem水流(water)  提交人数32  AC人数13
+Problem ID  2389  Problem攀墙(wall)  提交人数0  AC人数0
+Problem ID  2390  Problem残缺的数字(number)  提交人数0  AC人数0
+Problem ID  2391  Problem金块问题  提交人数1  AC人数1
+Problem ID  2392  Problem求序遍历(str)  提交人数6  AC人数5
+Problem ID  2393  Problem循环赛问题(match)  提交人数0  AC人数0
+Problem ID  2394  Problem找礼物(find)  提交人数0  AC人数0
+Problem ID  2395  Problem排序工作量  提交人数52  AC人数12
+Problem ID  2396  ProblemFBI树(fbi)  提交人数1  AC人数1
+Problem ID  2397  Problem基因编码(coding)  提交人数1  AC人数1
+Problem ID  2398  Problem考分鄙视(exam)  提交人数0  AC人数0
+Problem ID  2399  Problem桐桐查单词  提交人数3  AC人数0
+Problem ID  2400  Problem猪八戒吃西瓜(wmelon)  提交人数141  AC人数7
+Problem ID  2401  Problem化装晚会(costume)  提交人数13  AC人数0
+Problem ID  2402  Problem珍珠项链(pearl)  提交人数13  AC人数0
+Problem ID  2403  Problem木材加工  提交人数8  AC人数1
+Problem ID  2404  Problem探险(explore)  提交人数0  AC人数0
+Problem ID  2405  Problem奇怪的函数(xx)  提交人数1  AC人数1
+Problem ID  2406  Problem牛栏(aggr)  提交人数0  AC人数0
+Problem ID  2407  Problem整数开方(squint)  提交人数3  AC人数0
+Problem ID  2408  Problem小车问题(car)  提交人数2  AC人数0
+Problem ID  2409  Problem残缺棋盘问题(box)  提交人数0  AC人数0
+Problem ID  2410  Problem软件(software)  提交人数14  AC人数5
+Problem ID  2412  Problem圣诞树(tree)  提交人数1  AC人数0
+Problem ID  2413  Problem传球游戏(ball)  提交人数2  AC人数2
+Problem ID  2414  Problem黑熊过河  提交人数2  AC人数1
+Problem ID  2415  Problem抢金块(gold)  提交人数72  AC人数27
+Problem ID  2416  Problem维修栅栏(fence)  提交人数1  AC人数1
+Problem ID  2417  Problem攀登宝塔  提交人数1  AC人数1
+Problem ID  2418  Problem最大价值(dollars)  提交人数0  AC人数0
+Problem ID  2419  Problemfstring字符串(fstring)  提交人数50  AC人数17
+Problem ID  2420  Problem桐桐的爬山计划(climb)  提交人数10  AC人数0
+Problem ID  2421  Problem多米诺骨牌(domino)  提交人数0  AC人数0
+Problem ID  2422  Problem防卫导弹  提交人数3  AC人数0
+Problem ID  2423  Problem会议厅(rez)  提交人数60  AC人数20
+Problem ID  2424  Problem合唱队形(chorus)  提交人数0  AC人数0
+Problem ID  2425  Problem采药(medic)  提交人数2  AC人数1
+Problem ID  2426  Problem跑步(paobu)  提交人数2  AC人数1
+Problem ID  2427  Problem竞赛总分  提交人数1  AC人数1
+Problem ID  2428  Problem货币系统(money)  提交人数0  AC人数0
+Problem ID  2429  Problem金银岛(coin)  提交人数5  AC人数0
+Problem ID  2430  Problem质数和分解(resolve)  提交人数3  AC人数3
+Problem ID  2431  Problem最长公共子序列  提交人数2  AC人数0
+Problem ID  2432  Problem石子归并  提交人数2  AC人数2
+Problem ID  2433  Problem能量项链(energy)  提交人数0  AC人数0
+Problem ID  2434  Problem款待奶牛(treat)  提交人数0  AC人数0
+Problem ID  2435  Problem整理书本(book)  提交人数0  AC人数0
+Problem ID  2436  Problem饥饿的牛(hunger)  提交人数0  AC人数0
+Problem ID  2437  Problem蛙人(ple)  提交人数0  AC人数0
+Problem ID  2438  Problem数字游戏（Game.pas）  提交人数0  AC人数0
+Problem ID  2439  Problem聪明伶俐的香穗子(clever)  提交人数71  AC人数16
+Problem ID  2440  Problem条形图(diagrams)  提交人数0  AC人数0
+Problem ID  2441  Problem花店橱窗(flower)  提交人数0  AC人数0
+Problem ID  2442  Problem仓库的架子(shelves)  提交人数0  AC人数0
+Problem ID  2443  Problem盖房子(house)  提交人数1  AC人数0
+Problem ID  2444  Problem逃亡的准备(hallows)  提交人数2  AC人数0
+Problem ID  2445  Problem面包  提交人数1  AC人数1
+Problem ID  2446  Problem桐桐的贸易  提交人数17  AC人数4
+Problem ID  2447  Problem吃饭  提交人数10  AC人数4
+Problem ID  2449  Problem排名  提交人数17  AC人数5
+Problem ID  2450  Problem滑雪  提交人数20  AC人数5
+Problem ID  2451  Problem恐怖电影  提交人数38  AC人数6
+Problem ID  2453  Problem送货  提交人数1  AC人数1
+Problem ID  2455  Problem最小生成树  提交人数24  AC人数4
+Problem ID  2456  Problem灯泡游戏  提交人数29  AC人数6
+Problem ID  2457  Problem植物摆放  提交人数62  AC人数11
+Problem ID  2464  Problem字母排列  提交人数17  AC人数10
+Problem ID  2466  ProblemGraduates' Leaving  提交人数2  AC人数1
+Problem ID  2479  Problem报数游戏  提交人数1  AC人数1
+Problem ID  2480  Problem多连块拼图  提交人数1  AC人数1
+Problem ID  2481  Problem多连块分解  提交人数2  AC人数1
+Problem ID  2482  Problem盒子游戏  提交人数1  AC人数1
+Problem ID  2484  Problem最优对称路径  提交人数3  AC人数0
+Problem ID  2486  ProblemSuper Poker  提交人数1  AC人数1
+Problem ID  2488  ProblemRMQ with Shifts  提交人数1  AC人数0
+Problem ID  2497  ProblemPythagoras's Revenge  提交人数1  AC人数0
+Problem ID  2499  ProblemAny Way You Slice It  提交人数1  AC人数1
+Problem ID  2500  ProblemIs the Name of This Problem  提交人数1  AC人数1
+Problem ID  2501  ProblemThe Mark of a Wizard  提交人数5  AC人数1
+Problem ID  2502  ProblemLRU Caching  提交人数1  AC人数1
+Problem ID  2503  ProblemJugglefest  提交人数1  AC人数1
+Problem ID  2504  ProblemBounce  提交人数16  AC人数2
+Problem ID  2506  Problem第一天去餐厅吃饭  提交人数68  AC人数11
+Problem ID  2507  ProblemXiao Ke and Triangle  提交人数1  AC人数1
+Problem ID  2508  ProblemXiao Ke and Interval  提交人数1  AC人数1
+Problem ID  2509  Problem炸弹超人  提交人数52  AC人数9
+Problem ID  2510  Problem蚂蚁爬竿  提交人数34  AC人数9
+Problem ID  2511  Problem数的统计  提交人数152  AC人数4
+Problem ID  2513  Problem小可的打印服务  提交人数170  AC人数11
+Problem ID  2514  Problemqtech系列故事之——哥来了！  提交人数13  AC人数0
+Problem ID  2515  Problemqtech系列故事之——11.11  提交人数6  AC人数0
+Problem ID  2516  Problemqtech系列故事之——北京奇遇记  提交人数101  AC人数20
+Problem ID  2517  Problemqtech系列故事之——奇葩的电话号码  提交人数34  AC人数14
+Problem ID  2518  Problemqtech系列故事之——671coder与牛肉粉（一）  提交人数3  AC人数3
+Problem ID  2519  Problemqtech系列故事之——671coder与牛肉粉（二）  提交人数184  AC人数104
+Problem ID  2520  Problemqtech系列故事之——I like Pingpang!  提交人数9  AC人数5
+Problem ID  2521  Problemqtech系列故事之——I like Pingpang too！  提交人数20  AC人数6
+Problem ID  2522  Problemqtech系列故事之——集训室的水壶  提交人数32  AC人数7
+Problem ID  2523  Problemqtech 系列故事之——xindoo 的怪癖  提交人数36  AC人数8
+Problem ID  2524  ProblemAn Interesting Sequence  提交人数1  AC人数1
+Problem ID  2525  ProblemTwinkle Twinkle Little Star  提交人数1  AC人数0
+Problem ID  2526  ProblemColor the necklace   提交人数19  AC人数3
+Problem ID  2527  ProblemDNA computing   提交人数2  AC人数1
+Problem ID  2528  ProblemWebgame GuduSanGuo  提交人数5  AC人数2
+Problem ID  2529  ProblemMagic Tower  提交人数3  AC人数1
+Problem ID  2530  ProblemChinese checkers  提交人数69  AC人数16
+Problem ID  2531  ProblemDoctor NiGONiGO’s multi-core CPU  提交人数5  AC人数2
+Problem ID  2532  ProblemThe Mummy Returns   提交人数14  AC人数3
+Problem ID  2533  ProblemJudging Filling Problems  提交人数34  AC人数2
+Problem ID  2534  Problem1 VS 1  提交人数1  AC人数1
+Problem ID  2535  ProblemCount the Number of Cycles  提交人数1  AC人数1
+Problem ID  2536  ProblemChanglong  提交人数3  AC人数0
+Problem ID  2537  ProblemKnight Match Play  提交人数3  AC人数1
+Problem ID  2538  ProblemProvince Region Competition Team Play  提交人数19  AC人数3
+Problem ID  2539  ProblemFly or not fly  提交人数2  AC人数2
+Problem ID  2540  ProblemMonitoring System  提交人数39  AC人数11
+Problem ID  2541  ProblemHaHa's Morning  提交人数1  AC人数0
+Problem ID  2542  ProblemPlanting Tree  提交人数60  AC人数4
+Problem ID  2543  ProblemJob!Job!Job!  提交人数173  AC人数30
+Problem ID  2544  ProblemPocky  提交人数141  AC人数42
+Problem ID  2550  ProblemMysterious Organization  提交人数1  AC人数1
+Problem ID  2551  ProblemPassword Leakage  提交人数9  AC人数0
+Problem ID  2552  ProblemHeap  提交人数10  AC人数0
+Problem ID  2554  ProblemWho Will Win  提交人数0  AC人数0
+Problem ID  2555  ProblemLongest Non-decreasing Substring  提交人数40  AC人数5
+Problem ID  2556  ProblemThe Kth Circle  提交人数0  AC人数0
+Problem ID  2557  ProblemSum of Square  提交人数173  AC人数24
+Problem ID  2558  ProblemTake Pebble Game  提交人数3  AC人数2
+Problem ID  2559  ProblemThe least average cost  提交人数16  AC人数0
+Problem ID  2560  ProblemFalse coin  提交人数22  AC人数3
+Problem ID  2561  ProblemFence  提交人数3  AC人数1
+Problem ID  2562  ProblemParliament  提交人数4  AC人数3
+Problem ID  2564  ProblemThe dog task  提交人数5  AC人数0
+Problem ID  2565  ProblemGangsters  提交人数5  AC人数3
+Problem ID  2566  ProblemMovie  提交人数47  AC人数2
+Problem ID  2567  ProblemSMS Poll  提交人数3  AC人数0
+Problem ID  2568  ProblemTraitor  提交人数5  AC人数0
+Problem ID  2569  ProblemIntelligent Traffic Surveillance  提交人数0  AC人数0
+Problem ID  2570  ProblemBitTorrent  提交人数0  AC人数0
+Problem ID  2571  Problem2D-Solar System  提交人数0  AC人数0
+Problem ID  2572  ProblemBowling Ball  提交人数0  AC人数0
+Problem ID  2573  ProblemLED Circuit  提交人数0  AC人数0
+Problem ID  2574  ProblemMixed Flight Plans  提交人数0  AC人数0
+Problem ID  2575  ProblemSweeping Robot  提交人数0  AC人数0
+Problem ID  2576  ProblemWedding Hall  提交人数0  AC人数0
+Problem ID  2577  ProblemMinimum coverage matrix  提交人数16  AC人数8
+Problem ID  2578  ProblemGraduates' Leaving  提交人数1  AC人数1
+Problem ID  2579  ProblemCard Game  提交人数31  AC人数10
+Problem ID  2580  ProblemTotal Area  提交人数7  AC人数3
+Problem ID  2581  ProblemElection  提交人数15  AC人数9
+Problem ID  2582  ProblemA Big Forest  提交人数3  AC人数1
+Problem ID  2584  ProblemCompilation  提交人数26  AC人数1
+Problem ID  2585  ProblemRightmost non-zero Digit in N!  提交人数24  AC人数5
+Problem ID  2586  ProblemSaving Your Sailors  提交人数1  AC人数0
+Problem ID  2595  ProblemDinner——水  提交人数1  AC人数1
+Problem ID  2596  ProblemTime  提交人数3  AC人数1
+Problem ID  2598  ProblemStart  提交人数72  AC人数28
+Problem ID  2599  ProblemHamster  提交人数83  AC人数10
+Problem ID  2600  ProblemGold Medal  提交人数1  AC人数1
+Problem ID  2601  ProblemFactors  提交人数108  AC人数19
+Problem ID  2602  ProblemCS Building  提交人数8  AC人数4
+Problem ID  2603  ProblemB304  提交人数6  AC人数3
+Problem ID  2604  ProblemSequence  提交人数26  AC人数3
+Problem ID  2605  ProblemPopping Balloons  提交人数13  AC人数3
+Problem ID  2606  ProblemQuick out of the Harbour  提交人数32  AC人数11
+Problem ID  2607  ProblemFind the Treasure  提交人数3  AC人数3
+Problem ID  2608  ProblemBad Wiring  提交人数20  AC人数7
+Problem ID  2609  ProblemUndercover Pirate  提交人数5  AC人数2
+Problem ID  2610  ProblemDoubloon Game  提交人数17  AC人数8
+Problem ID  2611  ProblemWalking the Plank  提交人数2  AC人数2
+Problem ID  2612  ProblemParking Ships  提交人数8  AC人数3
+Problem ID  2613  ProblemTreasure Map  提交人数19  AC人数12
+Problem ID  2614  ProblemCircles Inside a Square  提交人数49  AC人数12
+Problem ID  2615  ProblemKnightmare  提交人数6  AC人数0
+Problem ID  2616  ProblemBuying in Bulk  提交人数17  AC人数14
+Problem ID  2617  ProblemCome Minion!   提交人数10  AC人数9
+Problem ID  2618  ProblemAre We Stopping Again?  提交人数15  AC人数13
+Problem ID  2619  ProblemGold Rush  提交人数3  AC人数1
+Problem ID  2620  ProblemLIS Number  提交人数3  AC人数2
+Problem ID  2621  ProblemSub Matrix Sum  提交人数2  AC人数0
+Problem ID  2622  Problem5C，还是5S？  提交人数24  AC人数8
+Problem ID  2623  Problemsimone牌文本编辑器  提交人数1  AC人数1
+Problem ID  2624  Problem二维数组排序  提交人数6  AC人数3
+Problem ID  2625  Problem跟XxX_Stu 玩游戏  提交人数3  AC人数3
+Problem ID  2626  Problem回文序列  提交人数2  AC人数0
+Problem ID  2627  Problem矩阵旋转  提交人数5  AC人数1
+Problem ID  2628  Problem快乐地玩耍  提交人数19  AC人数16
+Problem ID  2629  Problem提莫队长正在送命  提交人数21  AC人数16
+Problem ID  2630  Problem选号码  提交人数2  AC人数2
+Problem ID  2631  ProblemGuess  提交人数2  AC人数2
+Problem ID  2632  ProblemRepeat Number  提交人数1  AC人数1
+Problem ID  2633  ProblemBase64 Coding  提交人数11  AC人数2
+Problem ID  2634  ProblemDistance  提交人数1  AC人数1
+Problem ID  2635  ProblemGraph  提交人数1  AC人数1
+Problem ID  2636  ProblemLucky Numbers  提交人数1  AC人数1
+Problem ID  2637  ProblemA Coin Tossing Game  提交人数4  AC人数2
+Problem ID  2638  ProblemSemiconnected  提交人数1  AC人数1
+Problem ID  2639  ProblemPicking Cabbage  提交人数1  AC人数0
+Problem ID  2640  ProblemTraveling  提交人数4  AC人数0
+Problem ID  2641  ProblemPrime Factors  提交人数1  AC人数1
+Problem ID  2642  Problem南门的树  提交人数5  AC人数3
+Problem ID  2643  Problem日期转换  提交人数115  AC人数49
+Problem ID  2644  ProblemA+B Format  提交人数2  AC人数1
+Problem ID  2645  Problem回文  提交人数6  AC人数0
+Problem ID  2646  Problem Box of Bricks  提交人数1  AC人数1
+Problem ID  2648  Problem时间戳  提交人数33  AC人数21
+Problem ID  2649  Problem超市硬币处理机  提交人数152  AC人数105
+Problem ID  2651  Problem鸡兔同笼  提交人数138  AC人数107
+Problem ID  2652  Problem计算时钟夹角  提交人数21  AC人数11
+Problem ID  2653  Problem计算火车运行时间  提交人数39  AC人数24
+Problem ID  2654  Problem计算天数  提交人数262  AC人数95
+Problem ID  2655  Problem三天打鱼两天晒网  提交人数567  AC人数299
+Problem ID  2656  Problem圆内圆外  提交人数523  AC人数297
+Problem ID  2657  Problem又见鸡兔同笼  提交人数83  AC人数4
+Problem ID  2658  Problem周岁年龄  提交人数50  AC人数28
+Problem ID  2659  Problem还是鸡兔同笼  提交人数54  AC人数19
+Problem ID  2660  Problem与7无关的数  提交人数79  AC人数26
+Problem ID  2661  ProblemA Silly Boy  提交人数1  AC人数0
+Problem ID  2662  ProblemBrackets and operators  提交人数3  AC人数1
+Problem ID  2663  ProblemCrazy Goldbach  提交人数28  AC人数19
+Problem ID  2664  ProblemDeadline  提交人数1  AC人数1
+Problem ID  2665  ProblemEasy as ABC  提交人数4  AC人数2
+Problem ID  2666  Problem爬动的蠕虫  提交人数98  AC人数46
+Problem ID  2667  Problem猜数字游戏  提交人数85  AC人数22
+Problem ID  2668  Problem求符合给定条件的整数集  提交人数31  AC人数17
+Problem ID  2669  Problem勤劳的蚂蚁  提交人数1859  AC人数838
+Problem ID  2670  Problem按身高排队  提交人数43  AC人数30
+Problem ID  2671  Problem百灯熄灭  提交人数38  AC人数14
+Problem ID  2672  Problem求年月日  提交人数47  AC人数14
+Problem ID  2673  Problem装箱问题  提交人数23  AC人数16
+Problem ID  2674  Problem我们的目标是没有蛀牙  提交人数262  AC人数70
+Problem ID  2675  Problem逆序的三位数  提交人数17  AC人数14
+Problem ID  2676  Problem舞林大会  提交人数328  AC人数155
+Problem ID  2678  Problem交换的超能力  提交人数294  AC人数43
+Problem ID  2679  Problem1的个数  提交人数416  AC人数229
+Problem ID  2680  Problem年龄与疾病  提交人数92  AC人数35
+Problem ID  2681  Problem找和为K的两个元素  提交人数1  AC人数1
+Problem ID  2682  ProblemTomorrow never knows？  提交人数2  AC人数0
+Problem ID  2683  Problem小兔子跳台阶  提交人数10  AC人数2
+Problem ID  2684  Problem教父  提交人数15  AC人数13
+Problem ID  2685  Problem迷信的吴医生和机智的护士  提交人数555  AC人数269
+Problem ID  2686  Problem百度计算器的加法1  提交人数14  AC人数13
+Problem ID  2687  Problem小诺爱USB设备  提交人数57  AC人数30
+Problem ID  2688  Problem共同狂欢  提交人数836  AC人数330
+Problem ID  2689  Problem易手机的套餐  提交人数935  AC人数603
+Problem ID  2690  ProblemC++ 与Java  提交人数1  AC人数1
+Problem ID  2691  Problem掰巧克力  提交人数721  AC人数585
+Problem ID  2692  ProblemDoubles  提交人数1  AC人数1
+Problem ID  2703  Problem为小可学妹加油  提交人数135  AC人数41
+Problem ID  2704  Problem天黑请闭眼  提交人数1  AC人数1
+Problem ID  2705  Problem切蛋糕  提交人数6  AC人数0
+Problem ID  2706  ProblemRemoving Columns  提交人数27  AC人数12
+Problem ID  2707  Problem最大公约数  提交人数4  AC人数0
+Problem ID  2708  ProblemMonty Hall problem  提交人数42  AC人数7
+Problem ID  2709  Problem看美女  提交人数1  AC人数0
+Problem ID  2710  ProblemSums  提交人数33  AC人数6
+Problem ID  2711  Problem分解质因数  提交人数8  AC人数6
+Problem ID  2712  Problem酷酷的单词  提交人数96  AC人数21
+Problem ID  2713  Problem水题  提交人数192  AC人数65
+Problem ID  2714  Problem实验室的故事  提交人数861  AC人数520
+Problem ID  2716  ProblemWho Is Older  提交人数369  AC人数176
+Problem ID  2717  Problem滨滨发短信  提交人数296  AC人数110
+Problem ID  2718  Problem价格竞猜  提交人数194  AC人数146
+Problem ID  2719  Problem累加求和  提交人数13  AC人数5
+Problem ID  2720  Problem切饼  提交人数584  AC人数526
+Problem ID  2721  Problem不当老大  提交人数14  AC人数3
+Problem ID  2722  Problem数学黑洞  提交人数163  AC人数71
+Problem ID  2723  Problem支教大学生鲁甸地震中的坚守  提交人数314  AC人数226
+Problem ID  2724  Problem西藏难题   提交人数4  AC人数0
+Problem ID  2725  Problem笨小猴  提交人数183  AC人数19
+Problem ID  2726  Problem寄居蟹与海葵  提交人数176  AC人数23
+Problem ID  2727  Problem尼科彻斯定理  提交人数3  AC人数3
+Problem ID  2728  Problem老王赛马  提交人数1  AC人数1
+Problem ID  2729  Problem合唱队形  提交人数4  AC人数1
+Problem ID  2730  Problem幼儿园入学  提交人数561  AC人数475
+Problem ID  2731  Problem外币兑换  提交人数1053  AC人数625
+Problem ID  2732  Problem软件版本  提交人数1017  AC人数655
+Problem ID  2733  Problem青城余仓海  提交人数895  AC人数312
+Problem ID  2734  Problem第二价格竞拍  提交人数1116  AC人数421
+Problem ID  2735  Problem茶道  提交人数779  AC人数489
+Problem ID  2736  Problem三国武术值大排名  提交人数363  AC人数180
+Problem ID  2738  Problem精挑细选的钢管  提交人数576  AC人数171
+Problem ID  2739  Problem又见最小公倍数  提交人数122  AC人数28
+Problem ID  2740  Problem陶陶摘苹果  提交人数246  AC人数160
+Problem ID  2741  Problem采药  提交人数2  AC人数2
+Problem ID  2742  Problem第k极值  提交人数4  AC人数2
+Problem ID  2743  Problem谁拿了最多奖学金  提交人数1  AC人数1
+Problem ID  2744  Problem滑雪  提交人数5  AC人数1
+Problem ID  2745  Problem采药  提交人数2  AC人数1
+Problem ID  2746  ProblemISBN  提交人数2  AC人数2
+Problem ID  2747  ProblemRobot Navigation  提交人数1  AC人数0
+Problem ID  2748  ProblemAll Your Base  提交人数17  AC人数3
+Problem ID  2749  ProblemPeriodic, My Dear Watson  提交人数1  AC人数1
+Problem ID  2750  ProblemThis is Halloween: Saving Money  提交人数6  AC人数4
+Problem ID  2751  ProblemCoffin Tiles  提交人数5  AC人数3
+Problem ID  2752  Problemhinking Inside the Box  提交人数3  AC人数1
+Problem ID  2753  ProblemLightbulb Testing  提交人数1  AC人数1
+Problem ID  2754  ProblemOperation: Merchant Boorinei  提交人数1  AC人数1
+Problem ID  2755  ProblemPlinko  提交人数5  AC人数4
+Problem ID  2756  ProblemDefining Moment   提交人数6  AC人数4
+Problem ID  2757  ProblemJetpack Sniper 3000 Fragfest Extreme   提交人数5  AC人数3
+Problem ID  2758  ProblemPegs   提交人数8  AC人数3
+Problem ID  2759  ProblemJanken Tactics   提交人数2  AC人数1
+Problem ID  2760  ProblemBingo!   提交人数2  AC人数2
+Problem ID  2761  ProblemArtificial Strife   提交人数8  AC人数3
+Problem ID  2762  ProblemIt is My Derivative  提交人数14  AC人数6
+Problem ID  2763  ProblemRounders  提交人数6  AC人数5
+Problem ID  2764  ProblemQ  提交人数7  AC人数6
+Problem ID  2765  ProblemEnigmatologically Cruciverbalistic   提交人数2  AC人数1
+Problem ID  2766  ProblemBlue Jeans  提交人数8  AC人数4
+Problem ID  2767  ProblemCore Wars  提交人数2  AC人数1
+Problem ID  2768  ProblemRoid Rage  提交人数11  AC人数4
+Problem ID  2769  ProblemChildren of the Candy Corn  提交人数5  AC人数4
+Problem ID  2770  ProblemPanic Room  提交人数5  AC人数4
+Problem ID  2771  ProblemEight Queens  提交人数9  AC人数3
+Problem ID  2772  ProblemColor Walk  提交人数0  AC人数0
+Problem ID  2773  ProblemFlexible Spaces  提交人数3  AC人数3
+Problem ID  2774  ProblemFlip Five  提交人数4  AC人数3
+Problem ID  2775  ProblemHuman Cannonball Run  提交人数7  AC人数2
+Problem ID  2776  ProblemMixed Fractions  提交人数5  AC人数3
+Problem ID  2777  ProblemPesky Mosquitoes  提交人数23  AC人数2
+Problem ID  2778  ProblemNarrow Art Gallery  提交人数18  AC人数3
+Problem ID  2779  ProblemTractor  提交人数4  AC人数0
+Problem ID  2780  ProblemUnits  提交人数3  AC人数3
+Problem ID  2781  ProblemYikes -- Bikes!  提交人数7  AC人数0
+Problem ID  2782  ProblemOddities  提交人数5  AC人数3
+Problem ID  2783  ProblemTernarian Weights  提交人数11  AC人数3
+Problem ID  2784  ProblemGoldbach’s Conjecture  提交人数3  AC人数3
+Problem ID  2785  ProblemShotcube  提交人数0  AC人数0
+Problem ID  2786  ProblemErratic Ants  提交人数14  AC人数3
+Problem ID  2787  ProblemPlotting Polynomials  提交人数2  AC人数1
+Problem ID  2788  ProblemTrapezoid Walkway  提交人数3  AC人数2
+Problem ID  2789  Problem4 thought  提交人数1  AC人数0
+Problem ID  2790  ProblemBiggest Slice  提交人数6  AC人数2
+Problem ID  2791  ProblemEven Up Solitaire  提交人数3  AC人数2
+Problem ID  2792  ProblemIsland Buses  提交人数8  AC人数3
+Problem ID  2793  ProblemDrop Zone  提交人数1  AC人数1
+Problem ID  2794  ProblemEffective Infection Time  提交人数6  AC人数6
+Problem ID  2795  ProblemOutpost Navigation  提交人数18  AC人数2
+Problem ID  2796  ProblemMultikill  提交人数15  AC人数3
+Problem ID  2797  ProblemVirology  提交人数18  AC人数3
+Problem ID  2798  ProblemWorst Case Scenario  提交人数6  AC人数3
+Problem ID  2799  ProblemZombie Invasion  提交人数7  AC人数6
+Problem ID  2800  ProblemZombdar  提交人数5  AC人数5
+Problem ID  2801  ProblemHeight Ordering  提交人数1  AC人数1
+Problem ID  2802  ProblemIslands in the Data Stream  提交人数1  AC人数1
+Problem ID  2803  ProblemFloating-Point Format Conversion  提交人数1  AC人数1
+Problem ID  2804  ProblemHappy Happy Prime Prime   提交人数1  AC人数1
+Problem ID  2805  ProblemMancala  提交人数1  AC人数1
+Problem ID  2806  ProblemGrowing Rectangular Spiral  提交人数2  AC人数1
+Problem ID  2807  ProblemFarey Sums   提交人数0  AC人数0
+Problem ID  2808  ProblemThe Queen's Super-circular Patio   提交人数1  AC人数1
+Problem ID  2831  Problem放苹果  提交人数52  AC人数44
+Problem ID  2832  Problem母牛的故事  提交人数76  AC人数44
+Problem ID  2833  ProblemFibonacci Numbers  提交人数59  AC人数21
+Problem ID  2834  Problem找男朋友   提交人数76  AC人数38
+Problem ID  2835  Problem斐波那契？   提交人数55  AC人数40
+Problem ID  2836  Problem骨牌铺方格  提交人数119  AC人数37
+Problem ID  2837  Problem一只小蜜蜂...  提交人数53  AC人数35
+Problem ID  2838  Problem毛谭的EOF牛肉串  提交人数82  AC人数33
+Problem ID  2839  ProblemLELE的RPG难题  提交人数78  AC人数33
+Problem ID  2840  Problem折线分割平面  提交人数60  AC人数31
+Problem ID  2841  Problem考新郎  提交人数74  AC人数27
+Problem ID  2842  Problem 青蛙过河  提交人数32  AC人数23
+Problem ID  2843  Problem棋盘覆盖  提交人数39  AC人数1
+Problem ID  2844  Problem石油输油管道问题  提交人数24  AC人数14
+Problem ID  2845  Problem半数集问题  提交人数29  AC人数20
+Problem ID  2846  Problem整数因子分解  提交人数16  AC人数8
+Problem ID  2847  Problem取余运算  提交人数17  AC人数10
+Problem ID  2848  ProblemBig String  提交人数15  AC人数8
+Problem ID  2849  ProblemFibonacci Again  提交人数46  AC人数22
+Problem ID  2850  ProblemFibonacci Subsequence  提交人数2  AC人数1
+Problem ID  2851  ProblemBuge's Fibonacci Number Problem  提交人数18  AC人数7
+Problem ID  2852  ProblemHanoi Tower Troubles Again!  提交人数6  AC人数5
+Problem ID  2853  ProblemThe Towers of Hanoi Revisited  提交人数3  AC人数3
+Problem ID  2854  ProblemHanoi Tower  提交人数12  AC人数8
+Problem ID  2855  ProblemAvalon  提交人数6  AC人数1
+Problem ID  2856  ProblemBe a good snooker player  提交人数1  AC人数1
+Problem ID  2857  ProblemRubik's Cube  提交人数1  AC人数1
+Problem ID  2858  ProblemDigit Wave  提交人数3  AC人数0
+Problem ID  2859  Problem ElGamal Decryption   提交人数3  AC人数1
+Problem ID  2860  ProblemThe Least Palindromic Number  提交人数23  AC人数5
+Problem ID  2861  ProblemGCD depth  提交人数12  AC人数2
+Problem ID  2862  ProblemDIY Necklace  提交人数2  AC人数1
+Problem ID  2863  ProblemDistinct Numbers  提交人数11  AC人数1
+Problem ID  2864  ProblemWord Counting  提交人数32  AC人数5
+Problem ID  2865  ProblemBlocks  提交人数2  AC人数0
+Problem ID  2866  Problem1 VS 1  提交人数1  AC人数1
+Problem ID  2867  ProblemCount the Number of Cycles  提交人数1  AC人数1
+Problem ID  2868  ProblemChanglong's bother  提交人数1  AC人数0
+Problem ID  2869  ProblemKnight Match Play  提交人数12  AC人数1
+Problem ID  2870  ProblemProvince Region Competition Team Play  提交人数12  AC人数1
+Problem ID  2871  ProblemFly or not  提交人数1  AC人数1
+Problem ID  2872  ProblemMonitoring System  提交人数11  AC人数3
+Problem ID  2873  ProblemHaHa's Morning  提交人数1  AC人数0
+Problem ID  2874  ProblemPlanting Tree  提交人数14  AC人数3
+Problem ID  2875  ProblemJob!Job!Job!  提交人数16  AC人数4
+Problem ID  2876  ProblemPocky  提交人数17  AC人数10
+Problem ID  2877  ProblemConvolution Codes  提交人数2  AC人数2
+Problem ID  2878  ProblemEquivalent Synonym  提交人数2  AC人数1
+Problem ID  2879  ProblemBoss Xnby’s Scheduling Problem  提交人数10  AC人数1
+Problem ID  2880  ProblemChinese Suit Tiles  提交人数6  AC人数1
+Problem ID  2881  ProblemGod Created The Integers  提交人数1  AC人数1
+Problem ID  2882  ProblemOptimal Compress  提交人数4  AC人数1
+Problem ID  2883  ProblemThe Gougu Theorem  提交人数8  AC人数1
+Problem ID  2884  ProblemWorld Exposition’s Puzzle  提交人数4  AC人数1
+Problem ID  2885  ProblemQQ Farm  提交人数3  AC人数1
+Problem ID  2886  ProblemTrie Braiding  提交人数1  AC人数1
+Problem ID  2887  ProblemBee Movie  提交人数5  AC人数1
+Problem ID  2888  ProblemLight or Weight?  提交人数0  AC人数0
+Problem ID  2889  Problem[Vector]括号配对问题  提交人数75  AC人数29
+Problem ID  2890  Problem【快排】ASCII码排序  提交人数5  AC人数1
+Problem ID  2891  ProblemBinary String Matching  提交人数31  AC人数23
+Problem ID  2892  Problem一种排序  提交人数53  AC人数8
+Problem ID  2893  Problem擅长排列的小明  提交人数27  AC人数9
+Problem ID  2894  Problem【queue】懒省事的小明  提交人数46  AC人数4
+Problem ID  2895  Problem【二分查找】找球号  提交人数1  AC人数0
+Problem ID  2896  Problem【stack】Web Navigation  提交人数13  AC人数8
+Problem ID  2897  Problem【stack】Word Reversal  提交人数29  AC人数9
+Problem ID  2898  Problem【stack】Optimal Programs  提交人数3  AC人数2
+Problem ID  2899  Problem【stack】Rails  提交人数11  AC人数7
+Problem ID  2900  Problem【stack】Mapping the Route  提交人数1  AC人数1
+Problem ID  2906  Problem【stack&List】Directory Listing  提交人数1  AC人数1
+Problem ID  2907  Problem【stack】Largest Rectangle in a Histogram  提交人数2  AC人数0
+Problem ID  2908  Problem【stack】Bridging Signals  提交人数2  AC人数2
+Problem ID  2909  Problem【stack】Code  提交人数2  AC人数1
+Problem ID  2910  Problem【stack】A+B in Hogwarts  提交人数9  AC人数4
+Problem ID  2911  Problem【stack】Flipping Burned Pancakes  提交人数2  AC人数2
+Problem ID  2912  Problem【stack&Map】DoIt is Being Flooded  提交人数2  AC人数1
+Problem ID  2914  Problem【vector】Additive equations  提交人数2  AC人数1
+Problem ID  2915  Problem【vector】Free Candies  提交人数2  AC人数2
+Problem ID  2916  Problem【vector】Communication System  提交人数4  AC人数4
+Problem ID  2917  Problem【vector】Exchange Rates  提交人数1  AC人数0
+Problem ID  2918  Problem【vector】Fire Station  提交人数2  AC人数2
+Problem ID  2930  ProblemSpaceballs  提交人数9  AC人数7
+Problem ID  2931  ProblemKarel the Robot  提交人数24  AC人数1
+Problem ID  2932  ProblemDirect Visibility  提交人数0  AC人数0
+Problem ID  2933  ProblemMax or Min Build  提交人数20  AC人数0
+Problem ID  2934  ProblemPicture Validator  提交人数9  AC人数0
+Problem ID  2943  ProblemQueens  提交人数1  AC人数1
+Problem ID  2944  ProblemUnit Conversion  提交人数1  AC人数0
+Problem ID  2945  ProblemNuclear Missile  提交人数1  AC人数0
+Problem ID  2946  ProblemBob & Alice  提交人数4  AC人数3
+Problem ID  2947  ProblemHow Many Divisors You Can Find?  提交人数15  AC人数10
+Problem ID  2948  ProblemEasy Equation  提交人数19  AC人数7
+Problem ID  2954  Problem石油探测  提交人数27  AC人数10
+Problem ID  2955  ProblemMoney , money  提交人数1  AC人数1
+Problem ID  2956  ProblemSegment Balls   提交人数1  AC人数0
+Problem ID  2957  ProblemPlanar map  提交人数1  AC人数1
+Problem ID  2958  Problema Simple Problem  提交人数2  AC人数1
+Problem ID  2959  ProblemCaoshen like math  提交人数3  AC人数0
+Problem ID  2960  ProblemWorfzyq like crossfire  提交人数8  AC人数2
+Problem ID  2961  ProblemSum?Sum!  提交人数1  AC人数1
+Problem ID  2962  Problema interesting game  提交人数1  AC人数0
+Problem ID  2963  ProblemPlay whit bear kid  提交人数12  AC人数7
+Problem ID  2964  Problema Simple problem II  提交人数18  AC人数8
+Problem ID  2965  Problemipqhjjybj and his cow  提交人数7  AC人数3
+Problem ID  2966  ProblemNew Hanoi Tower  提交人数9  AC人数2
+Problem ID  2967  ProblemConstruct Roads  提交人数4  AC人数1
+Problem ID  2968  ProblemA Card Game  提交人数10  AC人数2
+Problem ID  2969  ProblemKid‘s math problem  提交人数14  AC人数7
+Problem ID  2970  ProblemKid’s question  提交人数1  AC人数1
+Problem ID  2971  ProblemOptimal Array Multiplication Sequence  提交人数3  AC人数3
+Problem ID  2972  ProblemTo the Max  提交人数7  AC人数3
+Problem ID  2973  Problem最大子段和  提交人数106  AC人数16
+Problem ID  2974  ProblemGreat Equipment  提交人数1  AC人数1
+Problem ID  2975  ProblemHuman Gene Functions  提交人数1  AC人数1
+Problem ID  2976  ProblemThe Tower of Babylon  提交人数1  AC人数1
+Problem ID  2977  Problem Mondriaan's Dream  提交人数1  AC人数1
+Problem ID  2978  ProblemPhylogenetic Trees Inherited  提交人数1  AC人数0
+Problem ID  2979  ProblemFatMouse and Cheese  提交人数1  AC人数1
+Problem ID  2980  Problem【dp】FatMouse  Speed  提交人数1  AC人数1
+Problem ID  2988  Problem【dp】Railroad  提交人数1  AC人数0
+Problem ID  2989  ProblemXOR  提交人数1  AC人数1
+Problem ID  2990  ProblemMailing Origami  提交人数5  AC人数0
+Problem ID  2991  ProblemLine Sweep  提交人数3  AC人数1
+Problem ID  2992  Problem Pick It  提交人数1  AC人数0
+Problem ID  2993  ProblemTight words  提交人数1  AC人数1
+Problem ID  2994  ProblemWERTYU  提交人数1  AC人数1
+Problem ID  2995  ProblemDivision  提交人数1  AC人数1
+Problem ID  2996  ProblemHotter Colder  提交人数1  AC人数1
+Problem ID  2997  ProblemCompressed Words?  提交人数8  AC人数2
+Problem ID  2998  Problem Java vs. Scheme Smackdown  提交人数7  AC人数1
+Problem ID  2999  ProblemTime Travel  提交人数8  AC人数1
