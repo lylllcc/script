@@ -34,15 +34,6 @@ class Spider:
     def write(self,allline):
         f = open('date.txt','w')
         for each in allline:
-            f.writelines("Problem ID  "+each['problemid']+"  Problem" + each['problem']+"  提交人数"+each['sub']+"  AC人数"+each['ac']+"\n")
+            f.writelines("Problem ID: "+each['problemid']+"  Problem: " + each['problem']+"  提交人数: "+each['sub']+"  AC人数: "+each['ac']+"\n")
         f.close()
         print "写入成功"
-
-
-
-
-
-
-
-
-
